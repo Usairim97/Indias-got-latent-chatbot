@@ -1,167 +1,101 @@
-# 🤖 India's Got Latent – AI Chatbot
+# 🎤 India's Got Latent – AI Chatbot
 
-![Landing Screenshot](screenshots/Screenshot%20(343).png)
-![Chatbot Screenshot](screenshots/Screenshot%20(342).png)
+Welcome to the official AI chatbot for the reality comedy show *India’s Got Latent*!  
+This chatbot answers deep, episode-level questions about the show, contestants, judges, controversies, jokes, eliminations, and more — powered by Retrieval-Augmented Generation (RAG) and a rare, manually curated dataset.
 
-An AI chatbot trained on an exclusive dataset from the reality show **India's Got Latent**. This is not your average chatbot—it understands contestants, judges, episodes, controversies, jokes, and all the hilarious moments that defined the show.
-
----
-
-## 📌 What Makes This Special (The X-Factor)
-
-This project’s **core strength** lies in its **rare, manually curated dataset**, extracted by personally watching and documenting every episode of India’s Got Latent. Since the show has been taken down and is no longer publicly available, this dataset is **one of a kind**.
-
-The dataset contains:
-- Judges for every episode
-- Each judge’s score for each contestant
-- Contestant names and performances
-- All jokes, funny moments, controversies, viral highlights
-- Structured JSON format
-
-➡️ **View the dataset on Kaggle**: [India's Got Latent Dataset](https://www.kaggle.com/datasets/musairim/indias-got-latentevery-episodes-data)
+<p align="center">
+  <img src="screenshots/Screenshot (343).png" width="80%" alt="Chatbot Page Screenshot"/>
+</p>
 
 ---
 
-## 💡 Project Overview
+## 🚀 Live Demo
 
-| Section | Description |
-|--------|-------------|
-| 🔍 Retrieval-Augmented Generation (RAG) | Used to combine vector search + LLM |
-| 🤖 LLM Used | `gemma-2b-it` via Groq API |
-| 🔍 Embeddings Model | `sentence-transformers/all-MiniLM-L6-v2` |
-| ⚙️ Frameworks | FastAPI, Docker |
-| ☁️ Deployment | Hugging Face Spaces |
-| 🧠 Backend | FAISS index + JSON + Retriever + Prompt |
-| 💬 Frontend | Pure HTML/CSS/JS (mobile responsive) |
-
-🚀 **Live Backend (Hugging Face Space)**:  
-https://huggingface.co/spaces/dndak/DO
+▶️ **Chat with the AI here**:  
+🔗 [https://dndak--do.hf.space](https://dndak--do.hf.space) (Hosted via Hugging Face Spaces)
 
 ---
 
-## 🛠️ Backend Structure
+## 📦 Project Overview
 
-├── app.py # FastAPI app
-├── requirements.txt
-├── Dockerfile # Container config
-├── data/
-│ └── indias_got_latent_data.json # 🔥 Rare custom dataset
-├── faiss_index/ # Precomputed FAISS vectors
-├── model/ # Sentence Transformer model files
-├── src/
-│ ├── chatbot.py # Orchestration logic
-│ ├── retriever.py # Semantic retrieval logic
-│ └── data_preparation.py # Indexing and parsing logic
+This is a fully functional **end-to-end AI chatbot** system, built using:
 
-yaml
-Copy
-Edit
+- 🔍 **Retrieval-Augmented Generation (RAG)** pipeline
+- 🤖 **Gemma 2B Instruct** model via **Groq API**
+- 💬 **Sentence-Transformers (all-MiniLM-L6-v2)** for semantic embeddings
+- ⚡ **FAISS** for fast vector search over episode data
+- ⚙️ **FastAPI** backend serving the chatbot logic
+- 🌐 **Frontend** connected via AJAX for real-time interactions
+
+The user types a message → relevant episode data is retrieved → the LLM responds intelligently in context.
 
 ---
 
-## 📸 Screenshots
+## 💎 X-Factor: Rare Dataset
 
-Landing Page:
+The heart of this project lies in its exclusive dataset:
 
-![Landing Page](screenshots/Screenshot%20(343).png)
+- 🎥 Manually created after watching every episode of *India’s Got Latent*
+- 🎭 Includes judges, contestants, individual scores, and hilarious moments
+- 📁 Episode-wise structure in JSON format — optimized for chunk-based retrieval
+- 🔒 Unavailable online — YouTube has removed the original episodes, making this dataset **truly rare and valuable**
 
-Chatbot Interface:
-
-![Chatbot](screenshots/Screenshot%20(342).png)
+🔗 **View Dataset on Kaggle**:  
+[https://www.kaggle.com/datasets/musairim/indias-got-latentevery-episodes-data](https://www.kaggle.com/datasets/musairim/indias-got-latentevery-episodes-data)
 
 ---
 
-## 📦 Running Locally
-
-### 1. Clone the Repo
+## 🛠️ Backend Architecture
 
 ```bash
-git clone https://github.com/Usairim97/Indias-got-latent-chatbot.git
-cd Indias-got-latent-chatbot
-2. Create a virtual environment and install dependencies
-bash
-Copy
-Edit
-python -m venv venv
-source venv/bin/activate    # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
-3. Set up .env with your Groq API key
-Create a file called .env:
+chatbot/
+├── app.py                     # FastAPI app with /chat endpoint
+├── data/                      # Manually curated JSON data
+├── src/
+│   ├── chatbot.py             # Handles the query-response pipeline
+│   ├── retriever.py           # Embedding + FAISS retrieval logic
+│   └── data_preparation.py    # JSON chunking and preprocessing
+├── faiss_index/               # Saved FAISS index and metadata
+├── model/                     # SentenceTransformer model config
+├── requirements.txt
+├── Dockerfile
+└── README.md
+🖼️ Screenshot Preview
+<p align="center"> <img src="screenshots/Screenshot (342).png" width="80%" alt="Homepage Screenshot"/> </p>
+✨ Highlights
+✅ Episode-Aware AI — understands specific shows, jokes, scores, and drama
 
-ini
-Copy
-Edit
-GROQ_API_KEY=your_api_key_here
-4. Run the API
-bash
-Copy
-Edit
-uvicorn app:app --reload
-🔍 How It Works
-User input goes to /chat endpoint via FastAPI
+💡 Real-world RAG Use Case — uses real, structured, rare data
 
-The message is embedded via SentenceTransformer
+🔥 Runs on Hugging Face Spaces — fast, lightweight deployment
 
-A FAISS index returns the most semantically similar data chunks
+🔐 No hallucination — responses are grounded in actual data
 
-The data and user message are combined and sent to the gemma-2b-it LLM via Groq API
+🌍 Frontend + Backend integration with zero manual refresh
 
-A response is returned to the frontend
+🧠 How It Works (RAG Pipeline)
+User sends query from frontend to backend via FastAPI
 
-📂 Dataset Details
-The dataset was created by manually:
+Query is embedded using all-MiniLM-L6-v2
 
-Watching every episode of India’s Got Latent
+FAISS retrieves semantically relevant chunks from the dataset
 
-Recording judges, contestants, scores, funny moments
+Context is sent to gemma-2b-it via Groq API
 
-Structuring it into JSON with episode-wise segmentation
+Response is returned to the user
 
-This dataset is:
-
-💎 Not available anywhere else online
-
-🎯 Accurate, episode-specific, and diverse
-
-🧠 Fine-tuned for deep information extraction
-
-🔗 Kaggle Dataset: India's Got Latent Dataset
-
-🙋‍♂️ Author
+🙋 Author
 M. Usairim
-17 y/o self-taught AI enthusiast from Multan, Pakistan.
-Interested in real-world AI applications and building tools that matter.
-This was my first-ever personal AI project—built with passion, persistence, and a lot of late nights.
+17 y/o AI enthusiast from Multan, Pakistan 🇵🇰
+First ever personal AI project — built with dedication, long nights, and passion.
 
-📢 Feedback / Support
-Feel free to open an issue or contact me on LinkedIn
-I'd love to hear your thoughts or help if you're building something similar!
+“This project is proof that with persistence and creativity, even a solo beginner can build something impactful.”
+
+📬 Feedback & Contact
+Have suggestions, want to collaborate, or just want to say hi?
+📩 Reach out on LinkedIn
 
 📄 License
-MIT License. Use freely, credit appreciated.
-
-yaml
-Copy
-Edit
-
----
-
-### ✅ Summary of What to Do
-
-| Step | Action |
-|------|--------|
-| 1️⃣ | Open `README.md` in VS Code or GitHub |
-| 2️⃣ | Replace everything with the full markdown above |
-| 3️⃣ | Push changes to GitHub |
-| 4️⃣ | You're done! Your repo now looks 🔥 |
-
----
-
-Let me know if you'd like a version with GitHub badges (stars, forks, license) or anything else added like a video demo, chatbot conversation samples, or "roadmap" section.
-
-
-
-
-
-
+This project is open-source under the MIT License.
+Use it freely, but attribution is appreciated.
 
