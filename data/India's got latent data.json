@@ -1,0 +1,3359 @@
+{ "show_overview": {
+  "title": "India's Got Latent",
+  "description": "India's Got Latent is a Hindi-language digital entertainment show launched on June 14, 2024. Created and hosted by comedian Samay Raina, the show blends humor, talent discovery, and satire into a unique parody of traditional talent competitions. The word 'Latent' emphasizes discovering hidden abilities of contestants in a fun and unpredictable environment.",
+  "format": "The show follows a quirky talent-show format. Contestants predict their own scores before performing. Judges score their performance, and if the predicted score matches the average judge score, the contestant is declared a 'Latent Winner.' This concept highlights self-awareness and adds comedic unpredictability.",
+  "inspiration": "The show draws its inspiration from 'Kill Tony' (a US-based live comedy show) and India's Got Talent. However, it differentiates itself through improvisational humor, meme-driven culture, and satirical takes on talent evaluation.",
+  "platform": "India's Got Latent was streamed on YouTube and filmed at The Habitat, Mumbai. All episodes were made private in February 2025 following backlash and legal controversies.",
+  "first_aired": "2024-06-14",
+  "last_aired": "2025-02-12",
+  "total_episodes": 12,
+  "bonus_episodes": 6,
+  "hosts": ["Samay Raina", "Vaibhav Sethia", "Balraj"],
+  "judges_summary": "Each episode featured a different panel of celebrity judges — comedians, musicians, actors, and influencers — including Raftaar, Badshah, Sumukhi Suresh, Aishwarya Mohanraj, Anubhav Singh Bassi, Atul Khatri, Kusha Kapila, and more.",
+  "audience_engagement": "The show exploded on Indian meme pages and YouTube comment sections. Contestant moments went viral, triggering debates, parody reels, and cultural trends online.",
+  "memes_and_virality": "Popular clips — like Kunal Kamra’s savage judge moments, awkward contestant reactions, and unfiltered jokes — made it a viral phenomenon. The internet loved the unpredictability and relatability of its raw moments.",
+ "recent_controversies": [
+  {
+    "incident": "Ranveer Allahbadia's Controversial Remark in Bonus Episode 6",
+    "details": "On February 10, 2025, during Bonus Episode 6 of India's Got Latent, guest judge Ranveer Allahbadia (BeerBiceps) asked a contestant: 'Would you rather watch your parents have sex every day for the rest of your life or join in once to make it stop forever?' This provoked massive outrage across social media, with viewers calling the remark obscene and inappropriate. Legal complaints were filed in Maharashtra and Assam. A parliamentary committee even raised concerns about content regulation for YouTube shows and podcasts.",
+    "current_status": "The Supreme Court criticized the comment as 'condemnable' and restricted Allahbadia’s travel rights. Samay Raina removed all episodes of the show from YouTube. Other guests like Apoorva Mukhija received threats and backlash. The show remains unavailable and under public scrutiny. The incident sparked a wider debate on digital censorship and creator responsibility."
+  },
+  {
+    "incident": "Insensitive Joke About Depression",
+    "details": "Contestant Banti Banerjee made a joke referencing Deepika Padukone’s mental health. Many viewers and mental health activists criticized it as insensitive and triggering. The issue sparked conversations about the responsibility of creators to respect mental health boundaries.",
+    "current_status": "The joke was removed from public clips. The showrunners issued a public apology and promised greater content moderation in the future."
+  }
+]
+,
+  "current_status": "The show has not resumed after February 2025. All content is currently unavailable online. No formal cancellation was announced, but there have been no updates from Samay Raina or the production team regarding a future season."
+}, "highlight_chunks": [
+  {
+    "title": "Best Contestants of India’s Got Latent",
+    "content": [
+      {
+        "name": "Naman Arora",
+        "episode": "Episode 5",
+        "description": "Naman impressed with his comedic storytelling and original approach to observational humor. He gained a loyal fanbase after his performance."
+      },
+      {
+        "name": "Kushal Bhanushali",
+        "episode": "Episode 11",
+        "description": "Kushal, a visually impaired comedian, delivered one of the most inspiring and hilarious sets. His performance was both moving and memorable, leading to several podcast features."
+      },
+      {
+        "name": "Bhavya Shah",
+        "episode": "Episode 9",
+        "description": "Bhavya, also visually impaired, stunned audiences with his sharp wit and fearless delivery. He received praise online and from judges."
+      },
+      {
+        "name": "Keshav Jha",
+        "episode": "Bonus Episode 6",
+        "description": "Keshav’s poetic shayari brought calm energy and depth to his episode. His act was among the most original of the season."
+      },
+      {
+        "name": "Khushi Saini",
+        "episode": "Episode 12",
+        "description": "Khushi stood out with a high-energy rap performance and strong personality. Her online presence grew rapidly after the show."
+      }
+    ]
+  }
+]
+, "Judges": [
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Samay Raina",
+                "Info": {
+                    "Bio": " Samay RAINA is the host of INDIA'S GOT LATENT.An Indian stand-up comedian, YouTuber, and chess enthusiast, Samay Raina gained prominence as the co-winner of the second season of the stand-up comedy contest Comicstaan. During the COVID-19 pandemic, he began streaming chess games on his YouTube channel, collaborating with comedians and chess masters. His efforts have significantly contributed to popularizing chess in India.",
+                    "Appearance": "Appeared in all episodes.",
+                    "Episodes": [
+                        "Episode 1",
+                        "Episode 2",
+                        "Episode 3",
+                        "Episode 4",
+                        "Episode 5",
+                        "Episode 6",
+                        "Episode 7",
+                        "Episode 8",
+                        "Episode 9",
+                        "Episode 10",
+                        "Episode 11",
+                        "Bonus Episode 1",
+                        "Bonus Episode 2",
+                        "Bonus Episode 3",
+                        "Bonus Episode 4"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Balraj Singh Ghai",
+                "Info": {
+                    "Bio": "Balraj Singh Ghai is an entrepreneur and stand-up comedian based in Mumbai. He is the founder of The Habitat, a restaurant and performance venue that has become a hub for artists and performers. Balraj has also been involved in various television projects, including Aalas Motaapa Ghabraahat (2021) and Shut Up Ya Kunal (2017).",
+                    "Appearance": "Appeared in all main episodes and Bonus Episodes 2, 3, and 4, but not in Episode 11,8 Bonus Episode 1.",
+                    "Episodes": [
+                        "Episode 1",
+                        "Episode 2",
+                        "Episode 3",
+                        "Episode 4",
+                        "Episode 5",
+                        "Episode 6",
+                        "Episode 7",
+                        "Episode 9",
+                        "Episode 10",
+                        "Bonus Episode 2",
+                        "Bonus Episode 3",
+                        "Bonus Episode 4"
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Raftaar",
+                "Info": {
+                    "Bio": "Raftaar, born Dilin Nair, is an acclaimed Indian rapper, music producer, and television personality. Known for his energetic performances and chart-topping hits, he has been a significant figure in the Indian music industry. Raftaar has also appeared as a judge on various reality shows, showcasing his versatility and influence in the entertainment industry.",
+                    "Appearance": "Appeared in Episode 1.",
+                    "Episodes": ["Episode 1"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Sahil Kale",
+                "Info": {
+                    "Bio": "Sahil Kale is an up-and-coming stand-up comedian known for his observational humor. He has been part of the comedy scene in India, performing at various venues and events. Sahil's unique style and relatable content have garnered attention, making him a notable figure among emerging comedians.",
+                    "Appearance": "Appeared in Episode 1 and Bonus Episode 1.",
+                    "Episodes": ["Episode 1","Bonus Episode 1"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Neeti Palta",
+                "Info": {
+                    "Bio": "Neeti Palta is an Indian stand-up comedian, writer, and former advertising professional known for her sharp wit and relatable humor. She was one of the first female comedians to make a mark in India's comedy scene, blending observational comedy with cultural insights. Neeti has performed globally, appeared on Amazon Prime Video's Comedy Specials, and gained popularity for her take on gender, family, and societal norms. Before comedy, she wrote for the TV show Galli Galli Sim Sim (India’s version of Sesame Street).",
+                    "Appearance": "Appeared in Episode 4.",
+                    "Episodes": ["Episode 4"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Maheep Singh",
+                "Info": {
+                    "Bio": "Maheep Singh is a stand-up comedian known for his observational humor and relatable content. He has been active in the Indian comedy circuit, performing at various events and shows. Maheep's ability to connect with audiences through his witty and humorous takes on everyday life has made him a popular figure in the comedy scene.",
+                    "Appearance": "Appeared in Episode 4.",
+                    "Episodes": ["Episode 4"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Saurabh Pandey",
+                "Info": {
+                    "Bio": "Saurabh Pandey is a poet, storyteller, and actor with a heartfelt narrative style. He has been involved in various performances and events, captivating audiences with his storytelling prowess. Saurabh's contributions to the arts have been recognized, and he continues to be an influential figure in the Indian entertainment industry.",
+                    "Appearance": "Appeared in Episode 7.",
+                    "Episodes": ["Episode 7"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Vivek Desai",
+                "Info": {
+                    "Bio": "Vivek Desai is a multi-talented performer and mentor in the arts. He has been associated with various projects, showcasing his versatility and passion for the arts. Vivek's guidance and mentorship have been instrumental in shaping the careers of many artists, making him a respected figure in the industry.",
+                    "Appearance": "Appeared in Episode 8.",
+                    "Episodes": ["Episode 8"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Vidit Gujrathi",
+                "Info": {
+                    "Bio": "Vidit Gujrathi is a renowned Indian chess grandmaster and streamer. He has been instrumental in popularizing chess in India through his online streams and collaborations. Vidit's expertise and contributions to the chess community have been widely recognized, earning him accolades and a significant following.",
+                    "Appearance": "Appeared in Episode 8.",
+                    "Episodes": ["Episode 8"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Poonam Pandey",
+                "Info": {
+                    "Bio": "Poonam Pandey is an Indian model, actress, and social media influencer. She gained fame through her bold and controversial statements and has been a part of various reality shows. Poonam's presence in the entertainment industry continues to be significant, with her active engagement on social media platforms.",
+                    "Appearance": "Appeared in Episode 8.",
+                    "Episodes": ["Episode 8"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Aggu Stanley",
+                "Info": {
+                    "Bio": "Aggu Stanley is a choreographer and performer known for his dynamic dance performances. He has been part of various dance reality shows and events, showcasing his talent and creativity. Aggu's contributions to the dance industry have been recognized, and he continues to inspire with his performances.",
+                    "Appearance": "Appeared in Episode 9.",
+                    "Episodes": ["Episode 9"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Deepak Kalal",
+                "Info": {
+                    "Bio": "Deepak Kalal is a social media personality known for his humorous content. He gained popularity through his comedic videos and has been a part of various reality shows. Deepak's unique style and approach to comedy have made him a notable figure in the entertainment industry.",
+                    "Appearance": "Appeared in Episode 9.",
+                    "Episodes": ["Episode 9"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Manan Desai",
+                "Info": {
+                    "Bio": "Manan Desai is a comedian and co-founder of The Comedy Factory. He has been active in the comedy scene, performing at various events and shows. Manan's contributions to the comedy industry have been significant, and he continues to entertain audiences with his wit and humor.",
+                    "Appearance": "Appeared in Episode 9.",
+                    "Episodes": ["Episode 9"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Raghu Ram",
+                "Info": {
+                    "Bio": "Raghu Ram is a TV producer and judge known for MTV's Roadies. He has been a significant figure in the Indian television industry, known for his candid and straightforward approach. Raghu's influence in the entertainment industry continues to be profound, with his active participation in various projects.",
+                    "Appearance": "Appeared in Episode 10.",
+                    "Episodes": ["Episode 10"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Sidwarrier",
+                "Info": {
+                    "Bio": "Sidwarrier is a neuroscientist and educator blending science and entertainment. He has been involved in various projects that aim to make science accessible and entertaining. Sidwarrier's unique approach to education and entertainment has garnered attention and appreciation.",
+                    "Appearance": "Appeared in Episode 10.",
+                    "Episodes": ["Episode 10"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Amin",
+                "Info": {
+                    "Bio": "Amin is a magician and entertainer with dynamic performances. He has been part of various events and shows, captivating audiences with his magical acts. Amin's contributions to the entertainment industry have been recognized, and he continues to mesmerize with his performances.",
+                    "Appearance": "Appeared in Bonus Episode 1.",
+                    "Episodes": ["Bonus Episode 1"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Bappa",
+                "Info": {
+                    "Bio": "Bappa is a judge and mentor in theatrical performances. He has been associated with various projects, guiding and mentoring artists in their performances. Bappa's expertise and mentorship have been instrumental in shaping the careers of many artists.",
+                    "Appearance": "Appeared in Bonus Episode 1.",
+                    "Episodes": ["Bonus Episode 1"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Badshah",
+                "Info": {
+                    "Bio": "Badshah, whose real name is Aditya Prateek Singh Sisodia, is one of India's most celebrated rappers, music producers, and lyricists. Known for redefining the Indian music scene, he has produced chart-topping hits such as \"DJ Waley Babu,\" \"Kar Gayi Chull,\" and \"Genda Phool.\" Badshah seamlessly blends Bollywood rhythms with urban hip-hop influences, making his music universally appealing. As a mentor and judge on talent shows like India's Got Talent and Dil Hai Hindustani, he has inspired and guided emerging artists. His unique style, commercial success, and entrepreneurial ventures have established him as a cultural icon in India. He appeared in Bonus Episode 2.",
+                    "Appearance": "Appeared in Bonus Episode 2.",
+                    "Episodes": ["Bonus Episode 2"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Siddhant Chaturvedi",
+                "Info": {
+                    "Bio": "Siddhant Chaturvedi is a Bollywood actor who gained fame for his breakout role as MC Sher in the critically acclaimed film Gully Boy. Known for his charm and acting versatility, Siddhant has continued to make his mark in the industry with roles in projects like Gehraiyaan and Bunty Aur Babli 2. His journey from modeling to mainstream cinema highlights his dedication to his craft.",
+                    "Appearance": "Appeared in Bonus Episode 2.",
+                    "Episodes": ["Bonus Episode 2"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Gursimran Khamba",
+                "Info": {
+                    "Bio": "Gursimran Khamba is a comedian, writer, and co-founder of the comedy collective All India Bakchod (AIB). Known for his sharp wit and satire, he played a pivotal role in redefining comedy in India through live performances and online sketches. Khamba has also contributed as a writer for various shows and events, solidifying his place in the Indian comedy scene.",
+                    "Appearance": "Appeared in Bonus Episode 2.",
+                    "Episodes": ["Bonus Episode 2"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Avika Gor",
+                "Info": {
+                    "Bio": "Avika Gor is an Indian television and film actress best known for her role as Anandi in the iconic TV serial Balika Vadhu. She has received numerous awards for her performances and has also ventured into films across regional industries. Avika continues to be a beloved figure in Indian entertainment.",
+                    "Appearance": "Appeared in Bonus Episode 3.",
+                    "Episodes": ["Bonus Episode 3"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Devesh Dixit",
+                "Info": {
+                    "Bio": "Devesh Dixit is a stand-up comedian known for his laid-back style and sarcastic humor. With performances across major comedy venues and online platforms, he has earned a reputation for his observational comedy and unique take on everyday scenarios. His relatable and witty humor resonates widely with audiences.",
+                    "Appearance": "Appeared in Bonus Episode 3.",
+                    "Episodes": ["Bonus Episode 3"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Shashwat Maheshwari",
+                "Info": {
+                    "Bio": "Shashwat Maheshwari is a stand-up comedian and writer renowned for his clean comedy and musical parodies. His ability to blend humor with music has set him apart in the Indian comedy circuit. Shashwat's performances are marked by clever writing and a creative approach to entertainment.",
+                    "Appearance": "Appeared in Bonus Episode 3.",
+                    "Episodes": ["Bonus Episode 3"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "GamerFleet",
+                "Info": {
+                    "Bio": "GamerFleet, whose real name is Anshu Bisht, is a popular Indian gaming content creator and YouTuber. Known for his engaging personality, he streams a variety of games, including Minecraft and GTA V. His rise in the gaming community has made him one of the prominent figures in India's streaming landscape.",
+                    "Appearance": "Appeared in Episode 2.",
+                    "Episodes": ["Episode 2"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Nishant Tanwar",
+                "Info": {
+                    "Bio": "Nishant Tanwar, also known as 'Joke Singh,' is a seasoned stand-up comedian celebrated for his relatable humor and storytelling. His content often draws from his personal experiences and societal observations, connecting with audiences across diverse demographics.",
+                    "Appearance": "Appeared in Episode 2 and Episode 6.",
+                    "Episodes": ["Episode 2","Episode 6"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Karan Singh",
+                "Info": {
+                    "Bio": "Karan Singh is a renowned mentalist and illusionist who has been captivating audiences with his mind-reading and magic acts. With performances across the globe, he has established himself as a leading figure in modern-day magic in India. His ability to merge psychological principles with entertainment makes his shows unforgettable.",
+                    "Appearance": "Appeared in Episode 2.",
+                    "Episodes": ["Episode 2"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Uorfi Javed",
+                "Info": {
+                    "Bio": "Uorfi Javed is a television actress and social media personality known for her unique fashion sense and bold public persona. She gained attention for her stint in reality shows like Bigg Boss OTT and has since remained a trending figure in the entertainment world.",
+                    "Appearance": "Appeared in Episode 3.",
+                    "Episodes": ["Episode 3"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Aashish Solanki",
+                "Info": {
+                    "Bio": "Aashish Solanki is a rising star in the stand-up comedy scene, known for his sharp wit and observational humor. With appearances on several comedy platforms, Aashish has steadily built a reputation as a promising comedian with a fresh perspective.",
+                    "Appearance": "Appeared in Episode 3.",
+                    "Episodes": ["Episode 3"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Yashraj",
+                "Info": {
+                    "Bio": "Yashraj Mehra is an Indian rapper, singer, and songwriter known for his work in the Indian hip-hop and rap music scene. He gained recognition for his distinctive style, which blends elements of storytelling with contemporary rap, often touching on themes of youth culture, social issues, and personal experiences. Yashraj's lyrics are known for being impactful, and he often addresses real-life struggles, making his music resonate with a wide audience.He is also known for his appearances on various comedy shows, which helped him build a presence in the entertainment industry. His work includes not only performances but also collaborations with other musicians and artists in the Indian rap scene.",
+                    "Appearance": "Appeared in Episode 3.",
+                    "Episodes": ["Episode 3"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Amit Tandon",
+                "Info": {
+                    "Bio": "Amit Tandon, often referred to as \"The Married Guy,\" is one of India's most popular stand-up comedians. His content, largely centered around family life and relationships, resonates with audiences of all ages. Amit has performed internationally, further establishing his comedic credentials.",
+                    "Appearance": "Appeared in Episode 4.",
+                    "Episodes": ["Episode 4"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Kunal Kamra",
+                "Info": {
+                    "Bio": "Kunal Kamra is a stand-up comedian known for his political satire and fearless approach to addressing sensitive topics. His comedy often critiques social and political systems, making him a polarizing yet significant figure in the Indian comedy landscape.",
+                    "Appearance": "Appeared in Episode 5.",
+                    "Episodes": ["Episode 5"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Atul Khatri",
+                "Info": {
+                    "Bio": "Atul Khatri is a veteran comedian who transitioned from being a businessman to a successful stand-up performer. He has performed on global stages, including Netflix specials, and is recognized for his relatable and witty humor.",
+                    "Appearance": "Appeared in Episode 5.",
+                    "Episodes": ["Episode 5"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Vipul Goyal",
+                "Info": {
+                    "Bio": "Vipul Goyal is an accomplished comedian and the star of the popular web series Humorously Yours. His observational humor and charming delivery have made him a favorite among Indian audiences.",
+                    "Appearance": "Appeared in Episode 6.",
+                    "Episodes": ["Episode 6"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Sonali Thakker",
+                "Info": {
+                    "Bio": "Sonali Thakker is a stand-up comedian and writer known for her fresh take on everyday issues. With performances at comedy festivals and online platforms, she is celebrated for her engaging stage presence and relatable humor.",
+                    "Appearance": "Appeared in Episode 6.",
+                    "Episodes": ["Episode 6"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Rahgir",
+                "Info": {
+                    "Bio": " real name kumar gurjar popularly known as Rahgir, is a poet, singer-songwriter, and storyteller whose work reflects themes of love, life, and human emotions. His unique blend of poetry and music has earned him a loyal following.",
+                    "Appearance": "Appeared in Episode 7.",
+                    "Episodes": ["Episode 7"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Ravi Gupta",
+                "Info": {
+                    "Bio": "Ravi Gupta is a comedian and performer known for his storytelling style and humorous takes on life. His performances often blend satire with anecdotes, making him a relatable figure in the comedy space.",
+                    "Appearance": "Appeared in Episode 7.",
+                    "Episodes": ["Episode 7"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Sagar",
+                "Info": {
+                    "Bio": "Sagar is a content creator and performer who combines humor and commentary in his work. He has been involved in various projects, including comedy sketches and collaborations.",
+                    "Appearance": "Appeared in Episode 8.",
+                    "Episodes": ["Episode 8"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Siddhant Sharma (Calm)",
+                "Info": {
+                    "Bio": "Calm, whose real name is Siddhant Sharma, is a member of the rap duo Seedhe Maut. Known for his dynamic rap style and lyrical prowess, he has been instrumental in shaping India's independent music scene. Calm's work explores themes of personal struggles, social issues, and urban life.",
+                    "Appearance": "Appeared in Bonus Episode 4.",
+                    "Episodes": ["Bonus Episode 4"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Encore ABJ (Abhijay Negi)",
+                "Info": {
+                    "Bio": "Encore ABJ, born Abhijay Negi, is a prominent rapper and lyricist, and a member of the rap duo Seedhe Maut. Renowned for his powerful lyrics and captivating stage presence, ABJ delves into diverse themes such as identity, resilience, and the Indian experience in his music.",
+                    "Appearance": "Appeared in Bonus Episode 4.",
+                    "Episodes": ["Bonus Episode 4"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Madhur Virli",
+                "Info": {
+                    "Bio": "Madhur Virli is a stand-up comedian known for his relatable and humorous storytelling. He gained prominence for his comedy special, The IIT Dream, where he reflects on the pressures of pursuing engineering, the intense coaching culture, and his journey through college life. With a unique blend of humor and relatability, Madhur addresses common societal expectations and delivers motivational undertones through his performances",
+                    "Appearance": "Appeared in Bonus Episode 4.",
+                    "Episodes": ["Bonus Episode 4"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Kaustubh Agarwal",
+                "Info": {
+                    "Bio": "Kaustubh Agarwal is a rising talent in the Indian stand-up comedy scene. Known for his witty observations and sharp humor, Kaustubh frequently performs at major comedy clubs and events across India. His sets often highlight relatable, everyday situations infused with clever wordplay and satire",
+                    "Appearance": "Appeared in  Bonus Episode 4.",
+                    "Episodes": ["Bonus Episode 1"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Bharti Singh",
+                "Info": {
+                    "Bio": "Bharti Singh is one of India\u2019s most popular comedians and television personalities. She gained fame with her performances in comedy shows like Comedy Circus, The Kapil Sharma Show, and India's Best Dancer. Known for her impeccable comic timing, infectious laughter, and larger-than-life persona, Bharti is loved by audiences of all ages. Her humor often touches upon everyday situations, and she is celebrated for her versatility in both stand-up comedy and hosting roles.",
+                    "Appearance": "Appeared in Episode 11.",
+                    "Episodes": ["Episode 11"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Harsh Limbachiya",
+                "Info": {
+                    "Bio": "Harsh Limbachiya is an Indian writer, comedian, and television producer. He is best known for his work as a writer on The Kapil Sharma Show. Harsh has a sharp wit and often blends humor with satire, drawing from personal experiences and social observations. His creative contributions to comedy have earned him a fan following, and he is often seen alongside his wife Bharti Singh in various comedic shows and segments.",
+                    "Appearance": "Appeared in Episode 11.",
+                    "Episodes": ["Episode 11"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Tony Kakkar",
+                "Info": {
+                    "Bio": "Tony Kakkar is an Indian playback singer, music composer, and lyricist. Known for his energetic and catchy songs, Tony has become one of the most popular voices in the Indian music industry. His hits include songs like Coca Cola Tu, Dheeme Dheeme, and Mile Ho Tum. Tony is also known for his collaborations with other famous artists in the music industry, contributing to both Bollywood and independent music scenes.",
+                    "Appearance": "Appeared in Episode 11.",
+                    "Episodes": ["Episode 11"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Tanmay Bhat",
+                "Info": {
+                    "Bio": "Tanmay Bhat is a renowned Indian comedian, writer, and content creator. He gained fame as a co-founder of All India Bakchod (AIB), a popular comedy collective known for its sketches, stand-up shows, and innovative digital content. Tanmay is also a prominent figure in the Indian YouTube scene, hosting engaging conversations, streaming games, and creating thought-provoking and humorous content.",
+                    "Appearance": "Appeared in Episode 10.",
+                    "Episodes": ["Episode 10"]
+                }
+            }
+        },
+        {
+            "type": "Judge",
+            "content": {
+                "Judge": "Arpit Bala",
+                "Info": {
+                    "Bio": "Arpit Bala is an emerging comedian and performer with a knack for entertaining audiences through his humorous narratives and engaging stage presence. He continues to make his mark in the comedy circuit.",
+                    "Appearance": "Appeared in Bonus Episode 1",
+                    "Episodes": ["Bonus Episode 1"]
+                }
+            }
+        }
+    ],
+    "Episodes": [
+        {
+            "episode": "Episode 1",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Raftaar",
+                            "Balraj",
+                            "Samay",
+                            "SahilKale"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Kayos",
+                        "Performance": "Beatboxer",
+                        "Scores": {
+                            "Samay": "8",
+                            "Raftaar": "8.5",
+                            "SahilKale": "7.5",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Jyoti Sharma",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "6.5",
+                            "Raftaar": "6.5",
+                            "SahilKale": "6",
+                            "Balraj": "7"
+                        },
+                        "AvgScore": "6.5",
+                        "Prediction": "6.5",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Sandeepan Ganguly",
+                        "Performance": "Singer",
+                        "Scores": {
+                            "Samay": "6.8",
+                            "Raftaar": "8.3",
+                            "SahilKale": "9.9",
+                            "Balraj": "3.6"
+                        },
+                        "AvgScore": "7.1",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Wearedesible",
+                        "Performance": "Beatboxer crew",
+                        "Scores": {
+                            "Samay": "10",
+                            "Raftaar": "10",
+                            "SahilKale": "8.5",
+                            "Balraj": "8.7"
+                        },
+                        "AvgScore": "9.3",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Mukul",
+                        "Performance": "dancer",
+                        "Scores": {
+                            "Samay": "4",
+                            "Raftaar": "5",
+                            "SahilKale": "1.1",
+                            "Balraj": "4.2"
+                        },
+                        "AvgScore": "3.6",
+                        "Prediction": "8.3",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Vedant Aggarwal",
+                        "Performance": "Mentalist/Illusionist",
+                        "Scores": {
+                            "Samay": "0",
+                            "Raftaar": "0",
+                            "Balraj": "0",
+                            "SahilKale": "0.1"
+                        },
+                        "AvgScore": "0",
+                        "Prediction": "7.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Dishank Arora",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "10",
+                            "Raftaar": "10",
+                            "Balraj": "8.9",
+                            "SahilKale": "9.2"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "TWINS",
+                        "Performance": "Standup Comedy",
+                        "Scores": {
+                            "Samay": "9.5",
+                            "Raftaar": "10",
+                            "Balraj": "10",
+                            "SahilKale": "9"
+                        },
+                        "AvgScore": "9.6",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Simran/Siddhant",
+                        "Performance": "Singer/Guitarist",
+                        "Scores": {
+                            "Samay": "9.5",
+                            "Raftaar": "9",
+                            "Balraj": "10",
+                            "SahilKale": "8.8"
+                        },
+                        "AvgScore": "9.3",
+                        "Prediction": "7.6",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Vedant Modi",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "8.8",
+                            "Raftaar": "9",
+                            "Balraj": "6.3",
+                            "SahilKale": "6.9"
+                        },
+                        "AvgScore": "7.8",
+                        "Prediction": "7.8",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "So everyone was scoring some contestant and when Sahil Kale was scoring he said i also have to look for the content too and Samay Replies you're Annu Malik in here(So Annu Malik was a judge in Indian Idol and he was seemingly a very angry person or like you know the odd in the group) So everybody laughed..",
+                    "metadata": {
+                        "speaker": "Sahil Kale, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant performed something and he said he is doing it from childhood and Samay Said I've heard if you do something gor more than 10000+ hours you are perfect at it but then Raftaar said (\" Agar tu Chutiyapa kare ga 10 ghnte to tu Chutiya hi hoga naa\") and everyone laughed",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina, Raftaar"
+                    }
+                }
+            ]
+        },
+        {
+            "episode": "Episode 2",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "GamerFleet",
+                            "NishantTanwar",
+                            "KaranSingh",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Hsevras Evrok/itshyde",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "8",
+                            "GamerFleet": "9",
+                            "NishantTanwar": "8",
+                            "KaranSingh": "8",
+                            "Balraj": "7.5"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Harsh Kala",
+                        "Performance": "Comedy",
+                        "Scores": {
+                            "Samay": "10",
+                            "GamerFleet": "8",
+                            "NishantTanwar": "10",
+                            "KaranSingh": "9.5",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Prem",
+                        "Performance": "Comedian",
+                        "Scores": {
+                            "Samay": "2",
+                            "GamerFleet": "5",
+                            "NishantTanwar": "3.5",
+                            "KaranSingh": "3.5",
+                            "Balraj": "4.5"
+                        },
+                        "AvgScore": "3.5",
+                        "Prediction": "8",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Gaurav Bhodija",
+                        "Performance": "Magic",
+                        "Scores": {
+                            "Samay": "7",
+                            "GamerFleet": "6",
+                            "NishantTanwar": "7.5",
+                            "KaranSingh": "7.5",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "7",
+                        "Prediction": "0",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Amant Upadhyay",
+                        "Performance": "Code Music",
+                        "Scores": {
+                            "Samay": "8",
+                            "GamerFleet": "8",
+                            "NishantTanwar": "7.5",
+                            "KaranSingh": "6",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "7.5",
+                        "Prediction": "7.5",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Harshini pillai",
+                        "Performance": "Voice Artist",
+                        "Scores": {
+                            "Samay": "10",
+                            "GamerFleet": "10",
+                            "NishantTanwar": "10",
+                            "KaranSingh": "10",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "10",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Suryansh/Veer",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "9",
+                            "GamerFleet": "10",
+                            "NishantTanwar": "9",
+                            "KaranSingh": "7",
+                            "Balraj": "6"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "8",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant said when he was coming from his home and he told his family that he is coming to the show and no one paid attention and when he said GamerFleet will also be there his grandma even started cheering for gamerfleet on wheelchair saying oh my love is coming on which everyone was laughing inside joke was GamerFleet was into Mommies",
+                    "metadata": {
+                        "speaker": "Contestant"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant who said he didn't masturbated for 24 years and was skinny so the judges said if ge does now it will have a recoil and in the sky of mumbai we will see northern lights and his cum would be a lot different and then he said his penis can't stand or he can't get hard and then balraj asked him (why do you came here\"he replied For Standup Comedy and samay Replied\"Khara to tera hota ni kia standup kare ga tu\" and this moment everyone was laughing",
+                    "metadata": {
+                        "speaker": "Contestant, Judges, Balraj, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant wrote some jokes but they didn't go as planned and it said something like he was rubbing or shaking penis of kids and samay Replies \"aray ye to GamerFleet ki audience ka hilaa raha h\" and everyone laughed at GamerFleet",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "A contestant who mimicss shinchan voice and says she's fascinated by some show in which they cut people genitals etc and she likes that says he'd like to cut some balls and someone said Hitler had only one ball and nishant said are you from that Era so basically she was very scary"
+                },
+                {
+                    "type": "Joke",
+                    "content": "At first after her performance she was like chubby and samay made a joke related to her performance and said lioe taking his name as what a performance by double chinshan samay actually roasted her obesity by saying double chin",
+                    "metadata": {
+                        "speaker": "Samay Raina"
+                    }
+                }
+            ]
+        },
+        {
+            "episode": "Episode 3",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                          "Samay",
+                            "UorfiJaved",
+                            "AashishSolanki",
+                            "Yashraj",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Devpreet Bhavsar",
+                        "Performance": "Poetry",
+                        "Scores": {
+                            "Samay": "5",
+                            "UorfiJaved": "6",
+                            "AashishSolanki": "7.5",
+                            "Yashraj": "6.5",
+                            "Balraj": "7.5"
+                        },
+                        "AvgScore": "6.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Hrithik Kadam",
+                        "Performance": "Comedian",
+                        "Scores": {
+                            "Samay": "7",
+                            "UorfiJaved": "6",
+                            "AashishSolanki": "6",
+                            "Yashraj": "6",
+                            "Balraj": "6"
+                        },
+                        "AvgScore": "6",
+                        "Prediction": "7.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Pranav Subramanian/Advaiya",
+                        "Performance": "Flute/Beatboxer",
+                        "Scores": {
+                            "Samay": "9.5",
+                            "UorfiJaved": "9.5",
+                            "AashishSolanki": "10",
+                            "Yashraj": "9.5",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Deepak Yadav",
+                        "Performance": "Poetry",
+                        "Scores": {
+                            "Samay": "10",
+                            "UorfiJaved": "7",
+                            "AashishSolanki": "5",
+                            "Yashraj": "5",
+                            "Balraj": "7.5"
+                        },
+                        "AvgScore": "7",
+                        "Prediction": "7",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Saubhagya Jindal",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "9",
+                            "UorfiJaved": "8",
+                            "AashishSolanki": "6",
+                            "Yashraj": "3",
+                            "Balraj": "5"
+                        },
+                        "AvgScore": "6",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Suryansh Tiwary",
+                        "Performance": "Mimicry",
+                        "Scores": {
+                            "Samay": "8.5",
+                            "UorfiJaved": "9",
+                            "AashishSolanki": "10",
+                            "Yashraj": "8.5",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "5.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "In a performance of two contestants playing flute and other beatboxing the contestant said he made his own flutes and also on asking he told in his backpack he has even a bigger flute just in case for backup and then samay replies we also have a backup on this panel (they were referring to a judge named yashraj who is a rapper but they were teasing him that he was a backup on this show and they wanted someone else) everybody laughed at this moment",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant who was performing poetry in hindi but wasn't remembering it correctly he would start again and again and people make gun of him upon asking more about what he does he works in a Cyber security company as operation assistant and Aashish Solanki replied he would always click on forget password in romanized hindi ( ye pata h kia krta hoga ye baar baar forgot password dabata hoga) and everyone laughed...",
+                    "metadata": {
+                        "speaker": "Contestant, Aashish Solanki"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant who originally was rapping and then said he was acting to rap and actually he does acting upon asking what he does he said he has fone BBA and is controlling his father's business and then also said I'm kind of acting there too and when the judges scored him and it wasn't near to his prediction samay said in romanized hindi ( tujhe kia laga hm bi acting karain ge) meaning what did you thought we would also be acting to score you better here and everyone laughed",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "Probably the best performance of the episode was the contestant (Suryansh Tiwary) who did mimicry of Salman Khan and copied his style which went soo viral over the internet like he literally copied Salman Khan's style and like said in romanized hindi and some moments were like  he introduced every judge on the panel with wrong names like first  at balraj and said Random as Lassi drinker For Samay raina as Samay Rihana and uorfi Javed as Murgi javed and literally everyone was laughing soo much on his performance the best of the episode then  in Salman Khan's style ( Aa jaon apni pay) in angry style when he was introducing the judges as in his performance and and then pointed at Solanki when he interrupted him"
+                },
+                {
+                    "type": "Joke",
+                    "content": "And the best scene was when his mic got muted as timer ran out but samay requested to unmute the mic so he can continue the performance and when he said to samay YOU DON'T INTERRUPT in Salman's voice and  everyone laughed",
+                    "metadata": {
+                        "speaker": "Suryansh Tiwary, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "And then he behaved as a host and said that audience has questions for the judges and first question was for Samay and he said in romanized hindi \" sex k pehle hilana chahie ya baad ma\" everyone laughing soo much and samay replied before so he get better timing",
+                    "metadata": {
+                        "speaker": "Suryansh Tiwary, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Miscellaneous",
+                    "content": "At the end in the last contestants performance when the first poetry guy who was won the judges asked him to rate him and it was equal to the last judge's prediction so before there was only one winner and the prize was only his and now after he scored the last person himself and he won so the prize was split"
+                }
+            ]
+
+        },
+        {
+            "episode": "Episode 4",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "AmitTandon",
+                            "Neeti",
+                            "MaheepSingh",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Bhachaa",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "9",
+                            "AmitTandon": "9.5",
+                            "Neeti": "10",
+                            "MaheepSingh": "10",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Shivani Ray",
+                        "Performance": "Poetry",
+                        "Scores": {
+                            "Samay": "9",
+                            "AmitTandon": "7",
+                            "Neeti": "9",
+                            "MaheepSingh": "9",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Oscar",
+                        "Performance": "Standup Comedy",
+                        "Scores": {
+                            "Samay": "8",
+                            "AmitTandon": "7",
+                            "Neeti": "5.5",
+                            "MaheepSingh": "6",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "7",
+                        "Prediction": "7.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Puneet Malhotra",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "3",
+                            "AmitTandon": "1.5",
+                            "Neeti": "1",
+                            "MaheepSingh": "2",
+                            "Balraj": "4"
+                        },
+                        "AvgScore": "2",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Bhachaa",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "9",
+                            "AmitTandon": "9.5",
+                            "Neeti": "10",
+                            "MaheepSingh": "10",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Kiran Holkar",
+                        "Performance": "Singer",
+                        "Scores": {
+                            "Samay": "5",
+                            "AmitTandon": "7",
+                            "Neeti": "7",
+                            "MaheepSingh": "3",
+                            "Balraj": "2"
+                        },
+                        "AvgScore": "6",
+                        "Prediction": "10",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Shahid Khan",
+                        "Performance": "Standup Comedy",
+                        "Scores": {
+                            "Samay": "7",
+                            "AmitTandon": "4",
+                            "Neeti": "5.5",
+                            "MaheepSingh": "3",
+                            "Balraj": "6"
+                        },
+                        "AvgScore": "5",
+                        "Prediction": "8",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Hard Shivam",
+                        "Performance": "Comedy/Beatboxer",
+                        "Scores": {
+                            "Samay": "6",
+                            "AmitTandon": "9",
+                            "Neeti": "10",
+                            "MaheepSingh": "10",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "9",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant stage named bhaccha performed as rapper and after his performance he said he is from Chattisgarh and Maheep Singh replied (Oh to ye Chattisgarh se h to ye mera bachha ni h ) context is that bacha is commonly referred as child",
+                    "metadata": {
+                        "speaker": "Bhaccha, Maheep Singh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant Shivani Ray who performed Poetry around misogynistic and feminism so after hearing her thoughts that only a man should ask her out she wouldn't and also her thoughts about feminism Samay Asked in hindi \" Kb se reh rahin h ap yahan? She replied Kahan samay Replies Delusions mein\"",
+                    "metadata": {
+                        "speaker": "Shivani Ray, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "THE MOST VIRAL JOKE OF THE SHOW\nBalraj asked Shivani if you find someone attractive would you not ask them out she replied when i found someone he got committed to someone immediately then Samay Replied\"To ap ne Maheep Ji ko poocha hi kiu\" and maheep sir first stopped samay saying\"Bakchodi ni kro yr\" then unexpectedly said Likho +98....  Everyone laughed soo much at this \nContext is that maheep singh is an old comedian and very dark humour known and he said likho +98 meaning he was referring to his number so everyone started laughing soo much and like this meme was so dark it floated around the internet a lot and was very viral",
+                    "metadata": {
+                        "speaker": "Balraj, Shivani Ray, Samay Raina, Maheep Singh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "And then Maheep sir sang a poetry for her very flirty and then after that he again said Likho +98...",
+                    "metadata": {
+                        "speaker": "Maheep Singh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant came and like was very serious after his performance and like samay asked him some questions and he replied very rudely and like Samay genuinely asked him what's yours trauma why are you soo much like that has something happened with you and he replied \" han mujhe bachpan ma pathar ni paray\"",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Context samay is from Kashmir and there was some war going there and Kashmiris were being hit by stones and everything so everyone teases Samay on that so his savage reply was everyone enjoyed and Samay Replied teri darrhi thi naa isi liye nahi paray pathar context is that Pakistani Kashmiri people had beards so that's why they were enemies both Kashmiris",
+                    "metadata": {
+                        "speaker": "Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "And another thing related to here is that before samay asked ehy didn't you gave auditions for Comicstaan and Indian comedy show (which samay raina had won) so he replied kya faida jb yhi niklna tha.... So after hitting with him about the beard joke Samay Replied yeah now tell me i won the Comicstaan season 2 here's my reply",
+                    "metadata": {
+                        "speaker": "Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant Shahid khan came and he said he can't sleep without masturbating so samay said then whom do you masturbate and he replied i am not that old like maheep sir that my can't be hard and in romanized hindi said \" ma itna old to nhi k mera khara naa hota ho\" everyone laughing crazy",
+                    "metadata": {
+                        "speaker": "Shahid Khan, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "NOW COMES THE MOST VIRAL MEME ON THE INTERNET\nAfter the above joke maheep sir replied don't say things like that about your dad romanized hindi\" papa ko aise nhi Bola krte beta\" and Shahid Replied Sir i am Muslim and Maheep Singh replied \" tujhe kia lagta h ma dharam dekh k chodta hon\" meaning what fo you think i first check the religion and then fuck this meme went on to be the most darkest on the internet",
+                    "metadata": {
+                        "speaker": "Maheep Singh, Shahid Khan"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another moment is that they were talking about how many girlfriends did he had amd was explaining why he doesn't likes male best friends for her girlfriend and like around that topic he said I don't care about my girlfriend now wherever she goes idc in romanized hindi \" mujhe koi fark ni parta jahan marzi jaaye maa chudaye ab\" and Maheep Singh replied \" nhi maa chudanay k liye kahin ni jana padega \" meaning wherever she fucks her mom idc maheep replied no for fucking his mom he doesn't have to go anywhere i am there to help get her fucked and everyone started laughing as much",
+                    "metadata": {
+                        "speaker": "Shahid Khan, Maheep Singh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another joke by maheep singh known for his dark comedy humour and Like Shahid khan said he doesn't like to involve with his relatives and like mix up in gatherings with them then Maheep Singh replied if you don't like your relatives then whom will you marry? In romanized hindi \" mujhe rishtedaari nibhana nhi pasand and maheep replied agar rishtedaar hi ni pasand to shaadi kis se karo ge phir?\"",
+                    "metadata": {
+                        "speaker": "Shahid Khan, Maheep Singh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Context is that Muslims have this tradition that they only maary in their close relatives like cousins most of time so that's why this joke went viral and then he said \"rishtedaaron me koi latki nhi isi liye mhi pasnad then Maheep Singh replied to kiu ni paida hone dete tum larkion ko\" meaning I don't have much girls to look in my relatives then Maheep Singh replied why don't you allow girls to be born in your society",
+                    "metadata": {
+                        "speaker": "Maheep Singh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Context in past some Muslim communities didn't allowed birth of girls in their community so Maheep Singh reffer to that",
+                    "metadata": {
+                        "speaker": "Maheep Singh"
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "THE MOST EPIC Moment\nRapper Named Hard Shivam he was a rapper and a beatboxer like he did the best performance ever possible in the show and like everybody loved his performance and like he was wayy too talented like he did sledging too in his rap and like he deserved a 10/10 but when the last judge samay was rating he thought when there actually comes a talented person he doesn't give himself a predicted score of 10 as he might have self doubt so by that the total score from 4 judges was 39 and now was Samay turn so he gave him a 6 so the avg could be 9 and the intense moment when he was said to show his prediction it actually was 9 and he won everyone was so happy about him winning he was truly remarkable"
+                }
+            ]
+        },
+        {
+            "episode": "Episode 5",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "KunalKamra",
+                            "AtulKhatri",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Shweta singh",
+                        "Performance": "poetry",
+                        "Scores": {
+                            "Samay": "7.5",
+                            "KunalKamra": "7",
+                            "AtulKhatri": "8",
+                            "Balraj": "9"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "7.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Nikhil Ingle",
+                        "Performance": "Singer",
+                        "Scores": {
+                            "Samay": "6",
+                            "KunalKamra": "7.5",
+                            "AtulKhatri": "7",
+                            "Balraj": "3"
+                        },
+                        "AvgScore": "6",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Sourabh Vaishnav",
+                        "Performance": "Standup Comedy",
+                        "Scores": {
+                            "Samay": "7",
+                            "KunalKamra": "7.5",
+                            "AtulKhatri": "7",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "7.5",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Naman Arora",
+                        "Performance": "Comedy",
+                        "Scores": {
+                            "Samay": "8.5",
+                            "KunalKamra": "8.5",
+                            "AtulKhatri": "8.5",
+                            "Balraj": "8.5"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "8.5",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Utkarsh Zole/Sanjana Chhatwani",
+                        "Performance": "Singing",
+                        "Scores": {
+                            "Samay": "5",
+                            "KunalKamra": "3",
+                            "AtulKhatri": "7",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "6",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant who was like first performed singing and then other things etc but wasn't good at it and then he performance some acting and judge said in romanized hindi \" is film ma jitna bhi porn daal do koi bi ni dekhe ga\" mene even if u add potn in this act nobody will watch it",
+                    "metadata": {
+                        "speaker": "Judge"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another guy Sourabh Vaishnav performed standup but his singing performance after he had done his acting was way more better than his stand up and he said he was from Rajasthan and he said he don't know why he was given two rings for engagement and Samay Replied one before and second after puberty and then they were talking about arrange marriage of him hiw this happens so he said him and his parents went to girls house and then they talked alone for 20-30 mins and then they decided that they will marry each other so everyone was like how in such short time you can decide about your life partner and Samay replied in romanized hindi\" jldi jldi krna paray ga kiu k us k baad larki ne school bi to jana hoga\"",
+                    "metadata": {
+                        "speaker": "Sourabh Vaishnav, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Miscellaneous",
+                    "content": "Context is that in Rajasthan girls get married at very young age forcefullly"
+                },
+                {
+                    "type": "Performance",
+                    "content": "BEST CONTESTANT ON INDIA'S GOT LATENT\nNaman Arora who did acting and poetry and is a mix of everything and is just pure comedy and everybody loved his performance he was the hest performer in the Whole Show and like even samay invited him to open his show and like his performance was the best even he won the SHOW in that episode too he was best Truly the best Find of the show"
+                }
+            ]
+        },
+        {
+            "episode": "Episode 6",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "VipulGoyal",
+                            "NishantTanwar",
+                            "SonaliThakker",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Sharon Verma",
+                        "Performance": "Standup Comedy",
+                        "Scores": {
+                            "Samay": "10",
+                            "VipulGoyal": "9",
+                            "NishantTanwar": "8.5",
+                            "SonaliThakker": "10",
+                            "Balraj": "9"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "8",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Santosh Patra",
+                        "Performance": "Standup Comedy",
+                        "Scores": {
+                            "Samay": "8",
+                            "VipulGoyal": "8",
+                            "NishantTanwar": "10",
+                            "SonaliThakker": "10",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Sharavari Bandodkar",
+                        "Performance": "Standup Comedy",
+                        "Scores": {
+                            "Samay": "6",
+                            "VipulGoyal": "7",
+                            "NishantTanwar": "10",
+                            "SonaliThakker": "6",
+                            "Balraj": "5"
+                        },
+                        "AvgScore": "7",
+                        "Prediction": "6",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Sewashree Boruah",
+                        "Performance": "Singer",
+                        "Scores": {
+                            "Samay": "8",
+                            "VipulGoyal": "8",
+                            "NishantTanwar": "10",
+                            "SonaliThakker": "8",
+                            "Balraj": "9"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "8.5",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Ansh Das",
+                        "Performance": "Car sound replication",
+                        "Scores": {
+                            "Samay": "9",
+                            "VipulGoyal": "10",
+                            "NishantTanwar": "10",
+                            "SonaliThakker": "10",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Judges were talking about balraj that he has been busy with shooting this show and he hasn't given much time in his home to his family and balraj said when i gave time to my family i got 2 kids born then Vipul goyal said\"apko latent ki ni latex ki zarorat h\"\nEveryone laughed and then Vipul Goyal Said Condom joke tha phatna hi tha...\nMeaning it was a joke around vondom so it had to be teared",
+                    "metadata": {
+                        "speaker": "Judges, Balraj, Vipul Goyal"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant who was very straightforward and like saying anything and his name was Santosh he was from orissa and he said after 20years of marriage of his parents then he was born then Samay asked what was the reaction of your parents he said in romanized hindi \"wo to dekha ni\" everyone laughed and Samay again said Kahan thay aap itne saalon se he replied Gaaon ma context is that he was referring that after the marriage and 20 years where was he but he didn't understand and said gaaon main... And he said that his friend can't speak properly and he himself demonstrates that's how he communicates with his friend and then judges ask hiw will you talk with someone who can't speak properly then he demonstrates in the style of someone with disabilities of walking and everyone laughed and then samay asked him you are so like racist to people with disabilities how will you face them after this show he said i will run fast as they will not be able to catch up with me and everyone laughed",
+                    "metadata": {
+                        "speaker": "Santosh, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant came and she was singing and like she said that she has fear from Appendix and uppn asking she said i get constipation a lot then samay said in romanized hindi \" idr tu haga aap ne dabba kay\" Shit just got real\nMeaning you pissed here mixing it up with constipation joke",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant who did replications of car sound and was telling that anywhere he us he dies car sound replication upon asking what if he's in the washroom he said there too i do that then they invited his father on stage and when they asked him about that and like vipul goyal said in hindi\" agar kbhi ye washroom ho or koi awaaz na aye to lgta h gari service ho rhi h\" meaning he's masturbating in the washroom everyone laughed there was a fun banter laughing between his audience and the judges especially Vipul Goyal who was of the same age with father and they really enjoyed the scene like they both were telling about how new generations are changing and like about new generations things",
+                    "metadata": {
+                        "speaker": "Contestant, Vipul Goyal"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "And like samay was telling about that his son has a girlfriend to his father and his father said i already knew it which was shock for the son and then Vipul Goyal who was really friendly with the father as they were of same generation said in romanized hindi\" Mazdoor ko khodna or baap ko .....\" And then samay and other judges shut his mouth as he was completing this joke which was like or baap ko chodna mat sikha like don't tell your father hiw to fuck we already know it so this moment was very very viral like then hus father said that he knew about his girlfriend as he told his mom about it and she told me about it but till now i didn't showed anything like i knew about his relationship and today this thing is opening up BUT his father was a true supporter and give as much support to his son he could and said i have no problems with her girlfriend it's his life he is fully able to live his life i will support you which was the best moment",
+                    "metadata": {
+                        "speaker": "Samay Raina, Vipul Goyal"
+                    }
+                }
+            ]
+        },
+        {
+            "episode": "Episode 7",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                           "Samay",
+                            "Rahgir",
+                            "RaviGupta",
+                            "SaurabhPandey",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Ayush Sharma",
+                        "Performance": "Fingerstyle guitarist",
+                        "Scores": {
+                            "Samay": "7.5",
+                            "Rahgir": "8",
+                            "RaviGupta": "8.5",
+                            "SaurabhPandey": "8.5",
+                            "Balraj": "8.5"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Toshika Bisht",
+                        "Performance": "Singing",
+                        "Scores": {
+                            "Samay": "7.5",
+                            "Rahgir": "8",
+                            "RaviGupta": "8",
+                            "SaurabhPandey": "8.5",
+                            "Balraj": "9.5"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "8.5",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Vishesh Rai",
+                        "Performance": "Mouth organ",
+                        "Scores": {
+                            "Samay": "6",
+                            "Rahgir": "6",
+                            "RaviGupta": "7",
+                            "SaurabhPandey": "6.5",
+                            "Balraj": "4.5"
+                        },
+                        "AvgScore": "6",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Parneet singh",
+                        "Performance": "Freestyle rapping",
+                        "Scores": {
+                            "Samay": "10",
+                            "Rahgir": "9",
+                            "RaviGupta": "10",
+                            "SaurabhPandey": "10",
+                            "Balraj": "6.5"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "9",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Manmeet Singh",
+                        "Performance": "Rapping freestyle",
+                        "Scores": {
+                            "Samay": "8.5",
+                            "Rahgir": "9",
+                            "RaviGupta": "9",
+                            "SaurabhPandey": "7.5",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "8",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant Toshika Bisht after her performance samay asked him how many breakups and balraj said indirectly he is asking about your body count and everybody said don't ask those type if questions and lioe she replied It's okay that's what i expected here and then Samay Replied instantly Okay than tell us what's your body count and then she says 7or8 maybe",
+                    "metadata": {
+                        "speaker": "Toshika Bisht, Samay Raina, Balraj"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "In her form she wrote that she likes Ronaldo so samay asked her that let's suppose if you and Ronaldo are in a locked room so will you make him messy?(Like football knowledge about Lionel Messi mixing it up) samay says i would have slept with Ronaldo and says imagine him doing a header on my balls then says i would have let my goal post open for him",
+                    "metadata": {
+                        "speaker": "Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Then the girl girl says first thing she looks for in a man is loyalty and then Ravi gupta says yeah i can relate \"mene jisko date kia tha wo bi saala chorh gya mujhe\" meaning yeah i agree the guy i dated also left ne so this was very funny  and then my partner has no issue with my wife and everyone laughed at it",
+                    "metadata": {
+                        "speaker": "Toshika Bisht, Ravi Gupta"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Then the girl tells that she lives on rent and then Ravi Gupta says you are very confident but do you think its good if you are poor and confident and everyone laughed at this and then ravi says i was also poor too but not that confident that's why I was saying it",
+                    "metadata": {
+                        "speaker": "Toshika Bisht, Ravi Gupta"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Samay had a brand sponsorship(with brand Spinny) on that episode which will give a second hand car to the winner and Samay Asked her if she won what would you do with that car she replied of course if you are giving then it would definitely be less valuable so I'll just throw it then Samay replies just because Spinny's car had a past it doesn't means it's less valuable then ravi Gupta looks at her and says\"ye wali gari 7/8 logon ne chla rkhi h\" talking about her body count",
+                    "metadata": {
+                        "speaker": "Samay Raina, Toshika Bisht, Ravi Gupta"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant came who said that his roommate filled his form and added things by himself to make it cool and like there were things that felt like he was gay and into him so like they asked the guy are you gay too? Then he replied no wayy I'm fully straight there's nothing like that then samay asked \"kia apko elaichi pasand h he said no then samay said kia ap ne try ki h he said yeah but i didn't liked it\" meaning have you tried elaichi upon which he said yeah i have tried but i don't like it then samay says how do you know that you don't like gay when you haven't even tried it .. Ravi gupta asks him seriously tell me do you wanna win this show? He says yes Ravi says on what cost? In romanized hindi \" Sachi btao kr a ap ye show jeetna chahaty ho \" he replies bilkul then ravi replies kis qeemat par and everyone laughs but he says us qeemat par ni then ravi says bs yhin p fail ho gye ap warna ap jo ma samay k sath dopeher k liye book kranay wala tha meaning he says not at that cost what you are saying then ravi says oh yeah here you failed otherwise i was arranging a meeting with samay for you...",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina, Ravi Gupta"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Parneet singh who performed punjabi music and dance and after his performance he said he has a girlfriend but she says I'll only marry with you if you'll lose your weight then Samay says why u have to do missionary only? Do doggy style etc  Everyone laughed at that and then said in puniabi OOO BUNDD MAARI... and everyone laughed one judge saurabh was giving him advice that you are very talented why are you really falling for someone eho doesn't respects you and samay pointed at Saurabh and replied 34 and single just saying... Everyone laughed at this and thus guy won too in tye end both winners were faved off in stone paper scissors battle and Parneet won",
+                    "metadata": {
+                        "speaker": "Parneet Singh, Samay Raina, Saurabh"
+                    }
+                }
+            ]
+        },
+        {
+            "episode": "Episode 8",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "PoonamPandey",
+                            "ViditGujrathi",
+                            "Sagar",
+                            "VivekDesai"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Viral Mistry",
+                        "Performance": "Voice over",
+                        "Scores": {
+                            "Samay": "9",
+                            "PoonamPandey": "9.5",
+                            "ViditGujrathi": "9",
+                            "Sagar": "10",
+                            "VivekDesai": "10"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "8",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Madhura Joshi",
+                        "Performance": "Singer",
+                        "Scores": {
+                            "Samay": "0.5",
+                            "PoonamPandey": "5",
+                            "ViditGujrathi": "6",
+                            "Sagar": "10",
+                            "VivekDesai": "6"
+                        },
+                        "AvgScore": "6.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Rajesh Yadav",
+                        "Performance": "Flips",
+                        "Scores": {
+                            "Samay": "10",
+                            "PoonamPandey": "8.5",
+                            "ViditGujrathi": "9",
+                            "Sagar": "10",
+                            "VivekDesai": "9"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Amber Sharma",
+                        "Performance": "Rapping",
+                        "Scores": {
+                            "Samay": "9.5",
+                            "PoonamPandey": "8",
+                            "ViditGujrathi": "9",
+                            "Sagar": "10",
+                            "VivekDesai": "9.5"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Raksha Tomar",
+                        "Performance": "Poetry and Jokes",
+                        "Scores": {
+                            "Samay": "8",
+                            "PoonamPandey": "6",
+                            "ViditGujrathi": "5",
+                            "Sagar": "5",
+                            "VivekDesai": "7"
+                        },
+                        "AvgScore": "5.5",
+                        "Prediction": "6.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Praveen Bairwa",
+                        "Performance": "Poet",
+                        "Scores": {
+                            "Samay": "9",
+                            "PoonamPandey": "9",
+                            "ViditGujrathi": "9",
+                            "Sagar": "9",
+                            "VivekDesai": "10"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "9",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "Viral mistry who mimics the voice of bear grills and is the best performer like his accent of bear grills in hindi was truly impressive and his jokes were very good everyone enjoyed the performance in bear Grylls voice he said that today we will be to samay college where despite the fact that hundreds of courses are available still ge choses to do printing engineering but yeah sometimes"
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant who didn't had one knee and like said that he can't bend his leg but can do everything like plays sports swimming etc and like they asked about his favourite stand-up comedian so he pointed at samay and said in romanized hindi \" Samay bhai Bassi ko jaante hon ge\" meaning samay bhai would know who is Bassi context is that anubhav singh bassi is a famous indian comedian and he was referring to him so evreyone laughed at that and samay replied with tye darkest joke he said in romanized hindi \" ye jo aise kr k moora h na aap ne kaash apka paaon bi aisay kr skta\" meaning well very well joke the twist you did at the end was really good i hope your leg could also do the same basically he was joking on his disability as he doesn't has a knee..",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                }
+            ]
+        },
+        {
+            "episode": "Episode 9",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "AgguStanley",
+                            "DeepakKalal",
+                            "MananDesai",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Yash Sharma",
+                        "Performance": "Musician",
+                        "Scores": {
+                            "Samay": "5",
+                            "AgguStanley": "7",
+                            "DeepakKalal": "6",
+                            "MananDesai": "8",
+                            "Balraj": "5"
+                        },
+                        "AvgScore": "6.5",
+                        "Prediction": "7.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Rushikesh/Mihir",
+                        "Performance": "Rapping",
+                        "Scores": {
+                            "Samay": "10",
+                            "AgguStanley": "10",
+                            "DeepakKalal": "10",
+                            "MananDesai": "10",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "10",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Bhavya Shah",
+                        "Performance": "stand-up comedy",
+                        "Scores": {
+                            "Samay": "9",
+                            "AgguStanley": "10",
+                            "DeepakKalal": "10",
+                            "MananDesai": "8.5",
+                            "Balraj": "9"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant yash sharma who performed singing but Judge Deepak Kalal didn't liked him and just before he was ending his performance Deepak shouted \"Bs kr BSDK\" Meaning shut up motherfuker and everyone laughed at that and then samay asked what else do you do other than singing and he said i do some jobs sometimes and then Deepak said \"Blowjob kare ga\" everyone laughed deepak was literally brutal with each contestant roasting them full time and after one time Samay pointed at deepak and said everyone who is against abortions here's Deepak for you and everyone laughed",
+                    "metadata": {
+                        "speaker": "Yash Sharma, Deepak Kalal, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "Bhavya shah who was blind came to perform and literally killed ut his performance was soo epic his joke on samay was as he feels fir kasmiri people as a blinfld person because both lives in blackout meaning there is war situation in Kashmir and no electricity then he points at AGGU the black Nigerian indian guy and says I'm against racism because i can't participate in it everyone laughed"
+                },
+                {
+                    "type": "Joke",
+                    "content": "Now comes the revenge from Deepak kalal who literally roasted everyone on the show and the blind contestant takes revenge when deepak says to him that i really like you are soo nice and he replies wish i could also say the same and everyone was laughing soo much and like finally someone roasted back deepak kalal ...",
+                    "metadata": {
+                        "speaker": "Deepak Kalal, Bhavya Shah"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Deepak got roasted from blind person this was the cool moment",
+                    "metadata": {
+                        "speaker": "Deepak Kalal, Bhavya Shah"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "And then the contestant said i also have low times in my life but then i think about deepak kalal.... Everyone laughed at thisband then Samay Said \"Mujhe aaj tk lagta tha k jo deepak ko dekhta h usse wo chutiya lagta h but jo nhi dekh skta usse bi chutiya hi lgta h\" Everyone laughed soo much this means that samay said i always thought who ever watches Deepak kalal is thinking that he's an asshole but today i got to know who can't see him also think ls the same",
+                    "metadata": {
+                        "speaker": "Bhavya Shah, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Then there was tlk about the condition of the blind person that he says his eye is not cureable and deepak says Oh nooo that's soo sad the contestant replies just like your life and everyone was laughing soo much this blind dude literally killed the show he was probably the best talent on the show after that samay aska the contestant that Broo what fo you want in life and someone from the crowd Shouts \"Deepak ki gaand\" meaning deepak's Ass and everyojenwas laughing soo much this was the moment everyone laughed",
+                    "metadata": {
+                        "speaker": "Deepak Kalal, Bhavya Shah, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Miscellaneous",
+                    "content": "in the end there was a hell of chaos on stage this was the biggest moment on the Show as in the Last samay Invited Puneet Superstar on stage who makes comedy vudeos and liie weird vjdeo but is so much viral on Internet and he has a sort of rivalry with Deepak kalal on internet so after samay announced that Puneet is coming everybody was shouting soo much and literally the Show was on fire and Puneet first roasted Deepak Kalal like literally he entertained the audience and the comedy like nothing else and then Deepak also joins the battle and toasted him the Was on Full time Chaos and they both roasted each other and at the end Samay Raina solved the fight b/w them and they hugged each other\n\nBut yeah this was the most viral episode as in the end the Most Epic Showdown of PuneetVsDeepak literally set the show on fire and they both roasted each other this was the moment of the show"
+                }
+            ]
+        },
+        {
+            "episode": "Episode 10",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "RaghuRam",
+                            "TanmayBhat",
+                            "Sidwarrier",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Malay Mundra",
+                        "Performance": "Farzi Mushaira",
+                        "Scores": {
+                            "Samay": "7",
+                            "RaghuRam": "2",
+                            "TanmayBhat": "5",
+                            "Sidwarrier": "6",
+                            "Balraj": "7"
+                        },
+                        "AvgScore": "5.5",
+                        "Prediction": "7.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Pratik Sangale",
+                        "Performance": "playing instrument",
+                        "Scores": {
+                            "Samay": "8",
+                            "RaghuRam": "6",
+                            "TanmayBhat": "8",
+                            "Sidwarrier": "6",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "7",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Banti Banerjee",
+                        "Performance": "Standup Comedy",
+                        "Scores": {
+                            "Samay": "9",
+                            "RaghuRam": "9",
+                            "TanmayBhat": "9",
+                            "Sidwarrier": "9.5",
+                            "Balraj": "8.5"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "9",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Rahul Singh",
+                        "Performance": "Standup Comedy",
+                        "Scores": {
+                            "Samay": "7.5",
+                            "RaghuRam": "4",
+                            "TanmayBhat": "6",
+                            "Sidwarrier": "6",
+                            "Balraj": "6.5"
+                        },
+                        "AvgScore": "6",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Mysterious Kayden",
+                        "Performance": "Juggling",
+                        "Scores": {
+                            "Samay": "5",
+                            "RaghuRam": "10",
+                            "TanmayBhat": "10",
+                            "Sidwarrier": "10",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "10",
+                        "Prediction": "9",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "First contestant performed some poetry but it wasn't really good so Raghu Ram who is a famous person and has past in Roadies for Roasting people so he said i wanna also say some poetry for you \" ma shayar to nahi par Bhosdi walay tujh se acha kr leta hon\" meaning i am not a poet but mother fucker i can do better than you and everyone laughing so much the contestant then told that he can wake up at any time he choses and Raghu replied ehat about now? And everyone laughed soo much",
+                    "metadata": {
+                        "speaker": "Contestant, Raghu Ram"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Then he was explaining the meaning behind his name which is Malay meaning mountains then raghu asked do u like mountains? He replied i don't have an opinion and on his reply everybody laughed soo much and then balraj asked him are you a traveller or a stickler and Samay said\" Sticklerr oo behnchood angraiz\" meaning Balraj used like really English words so samay was like oh you really son of an English bitch saying fancy words and then they tried some noodles and asked the contestant did he liked it to which he said Yeah and then Raghu Replied Motherfuker you have an opinion on this noodles but not for the mountains what person you are ? Your name even means mountains then Smaay says \"Raghu bhai aap k name ma bi to ghu aata h to kia ap ko bi gu pasand h\" meaning is that in hindi gu means shit so samay said to raghu in your name shit also comes so you love shit? Everyone laughed at this soo much",
+                    "metadata": {
+                        "speaker": "Contestant, Raghu Ram, Balraj, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Raghu's wife was also on the show and like samay asked him which peaks have you gone to? Meaning dirty and he said yeah i have gone to and i have enjoyed each single one of them and everyone laughed but Then TANMAY bhat said something CRAZZYY \" raghu bhai to kitni Randion k paas gye ho ap?\"",
+                    "metadata": {
+                        "speaker": "Samay Raina, Raghu Ram, Tanmay Bhat"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Meaning so raghu bhai uow many prostitutes have you been to bearing in mind his wife was also in the crowd so everyone laughed at the joke soo much",
+                    "metadata": {
+                        "speaker": "Tanmay Bhat"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant Banti Banerjee she was telling that she became a mother 2 years ago and that's bery challenging for her and like then she said Deepika Padukone also became a mother Recently now she knows what depression looks like and everyone laughed context is\nBollywood actor Deepika Padukone has spoken publicly about her experience with depression, and has shared her journey to recovery and the importance of mental health awareness:\nSymptoms: Padukone described feeling empty, directionless, and having a sense of confusion. She also experienced physical symptoms, such as shallow and uneven breathing.\nDiagnosis: Padukone was diagnosed with depression in 2014.\nTreatment: She went to counseling and took medication.\nRecovery: Padukone has said that she felt liberated after accepting and speaking about her depression. She has stopped taking medication and hopes to help others by sharing her story.\nAwareness: Padukone has said that she wants to help reduce the stigma and lack of awareness around mental illness. She is working on an initiative to raise awareness and help people.",
+                    "metadata": {
+                        "speaker": "Banti Banerjee"
+                    }
+                },
+                {
+                    "type": "Miscellaneous",
+                    "content": "Like her breakup was actual reason of her depression with ranbir Kapoor\nLike some people though that she was asking all of this darama just for getting people's attention and sympathy and everyone laughed at the joke of the contestant but later this was a very big controversy in the indian entertainment industry some people really git offended by this joke and Samay literally had to post about what it was a joke by the contestant not everyone's views like the contestant was really pissed off that the real depression is when your daughter really wakes u up in night and other challenges and then she sees deepika's so called depression"
+                },
+                {
+                    "type": "Joke",
+                    "content": "Talking about the performance of the contestant her husband was also there and they invited him on stage and they both were comics and they wrote comedy on each other so the husband wrote his around like against women feminism on her own wife like he said \" i got her pregnant so she can face depression and solitude but then said but he has advantages as she got pregnant and got 6 months maternity leave and whereas i only got two weeks so like how could i travel Europe in two weeks only Everyone laughed so much at this And these two being a very cute couple literally killed the show and like some judge asked what did you see in your uusband why you married him he is so against women why would you marry him and then later in the show in her form she had written his biggest strength is her husband's bank balance and then the Husband Replied yeah you were asking her naww what did she saw in me now you got the answer....",
+                    "metadata": {
+                        "speaker": "Banti Banerjee's Husband"
+                    }
+                },
+                {
+                    "type": "Miscellaneous",
+                    "content": "So like this couple was really cute and literally killed at the show She also Won the Show"
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant came and his performance wasn't up to the mark and like in his form he said that a Brazilian girl rejected her because of his smelly armpits and like every judge was telling him that he should take shower everyday etc and also said that he's in a long distance marriage for 1.5 years and and also daid he works in a ship in the Sea in Merchant Navy as Navigating Officer and Tanmay asked have you done the Titanic pose on ship with your wife and Sidwarrier Said for that he would have to open up his smelly arms... And everyone laughed at the joke soo much and like someone asked the contestant what will happen if a container at a ship drops in the ocean can we recover that or will it sink ? He said no it will sink Suddenly a sailor was also present with his wife in the audience and he came up on stage and said the container is seal packed and will float on the sea whereas the contestant said no it will sink and in this whole conversation the Sailor's wife was continuously interrupting the conversation giving her own logic when no one asked her so when the judges asked her to come up on stage and then say something if she wants she denied saying she's shy so samay said then don't INTERRUPT in commanding voice and then said to the contestant that you should take knowledge about container from the Sailor and the Sailor should take advice for Long distance relationship from the contestant as his wife was very annoying EVERYONE LAUGHED AT THAT SOO MUCH",
+                    "metadata": {
+                        "speaker": "Contestant, Tanmay Bhat, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "NOW COMES THE BEST ACT OF THE EPISODE\nMysterious Kayden who performs juggling of Sharp SWORDS after his performance he invited Raghu And laid him down and performed very dangerous stunts above him and successfully fid his tricks and on Raghu's balls he had a ballon for safety and the whole time while he was juggling Raghu laying down on the ground was literally sledging him and abusing him to stop but he went on with it and in the last after successfully doing everything popped the balloon himself and everyone on the Show was celebrating like their own win he was such a fantastic performer truly remarkable everyone likedhis performance VERY ENTERTAINING"
+                },
+                {
+                    "type": "Joke",
+                    "content": "Raghu after that was riasting samay that he insisted me to lay down and i am nit even getting paid for doing ut he's getting all the perks etc he's getting views and I'm getting all of this thing like being juggling over the swords and then in the end samay has been doing this in all episodes that the performers he likes the most he invites them to gus show for performing so then he asks contestant what are you foing on 5th? Raghu was drinking water and spits the whole onto Samay's Face and everyone laughed so much Raghu was soo frustated because here too Samay is thinking about how to keep his own business going...",
+                    "metadata": {
+                        "speaker": "Raghu Ram, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "This time he was asking for fun what are you doing on 5th OCT and he saud I'm free and samay said in romanized hindi \" mere jhaantay kaatein ge aap?\" Meaning will you cut my pubic hair then? Context is that everyone was expecting even the contestant too that Samay will invite him for the show to perform and then Samay suddenly said this and everyone really laughed at that",
+                    "metadata": {
+                        "speaker": "Samay Raina"
+                    }
+                },
+                {
+                    "type": "Miscellaneous",
+                    "content": "LAST BUT NOT LEAST THE BEST SCENE...\nAt the scoring time every judge gave him 10 but samay at last thought he would not have gave himself 10 as he wouldn't be really confident as much when he was predicting himself so samay gave 5 so that avg score becomes 9 hoping he's given himself also a 9 and after soo much suspenseful time he actually gave himself a 9 and he won THE WHOLE SHOW WAS BUZZING THE PEOPLE WERE CHEERING FOR JIM AT THEIR LOUDEST VOICES TRULY REMARKABLE"
+                }
+            ]
+        },
+        {
+            "episode": "Episode 11",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "Bharti Singh",
+                            "Harsh",
+                            "Tony Kakkar",
+                            "Drew Hicks"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Ankush Langote",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "7",
+                            "Bharti Singh": "7",
+                            "Harsh": "9",
+                            "Tony Kakkar": "8",
+                            "Drew Hicks": "8.5"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Dechan Kerongi Lama ",
+                        "Performance": "Storytelling",
+                        "Scores": {
+                            "Samay": "8",
+                            "Bharti Singh": "8",
+                            "Harsh": "7",
+                            "Tony Kakkar": "8",
+                            "Drew Hicks": "9"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "7.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Mohammad Adil",
+                        "Performance": "Costume Cutter",
+                        "Scores": {
+                            "Samay": "8",
+                            "Bharti Singh": "8",
+                            "Harsh": "7",
+                            "Tony Kakkar": "8",
+                            "Drew Hicks": "9"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Anmol Sharma",
+                        "Performance": "Break-Belly Musicality",
+                        "Scores": {
+                            "Samay": "6",
+                            "Bharti Singh": "10",
+                            "Harsh": "9",
+                            "Tony Kakkar": "10",
+                            "Drew Hicks": "9"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "9",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Kushal Bhanushali",
+                        "Performance": "Stand up Comedy",
+                        "Scores": {
+                            "Samay": "8",
+                            "Bharti Singh": "10",
+                            "Harsh": "8",
+                            "Tony Kakkar": "9",
+                            "Drew Hicks": "10"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "9",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Samay introduced the judges and bharti singh and Harsh supposedly the career of Harsh is because of Being with Bharti Singh and when samay pointed that Harsh Replies okay i sleep sometimes with Bharti but Samay is Always with Tanmay so after that evryone was laughing too much...",
+                    "metadata": {
+                        "speaker": "Samay Raina, Harsh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "And then Tony Kakkar was also as a judge and he was roasted alot on the show like due to his singing he was targeted a lot and Samay introduced him as Talking about Noise we have Tony Kakkar too and then he asks tony bhai how are you and when he was saying he stopped him and said you can get other mic it doesn't has auto tune in it (basically roasting tony Kakkar's music)",
+                    "metadata": {
+                        "speaker": "Samay Raina, Tony Kakkar"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "So first contestant performed as rapping and smaay said you make it very bad but then says i have full confidence that Tony Kakkar will make a remix of this and it will be even more disgusting... Everyone laughed at this",
+                    "metadata": {
+                        "speaker": "Samay Raina, Tony Kakkar"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "The contestant said that after drinking Red bull he masturbated 7 times so Harsh Asked what came out on 7th time Red Bull Or something else? Everyone laughed at that soo much...",
+                    "metadata": {
+                        "speaker": "Contestant, Harsh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Samay Was literally on a mission to roast Tony Kakkar during the whole Show so like the contestant said I had written more worse things about myself in the form but this is still some clean version for you and Samay Replied Only Tony's Lyrics can be more worse than that... And everyone laughed soo much",
+                    "metadata": {
+                        "speaker": "Samay Raina, Tony Kakkar"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant who just came with her friend and started cutting her clothes to make her dress into another shape and like upon asking the friend it came out that she's been married for 15 years and has a kid too of 15 years and like everybody was shocked that if she's married and has kid too then how is she allowing someone even his friend to cut her clothes and do things like this and The joke samay cracked was that he asked the contestant are you an architect too? He said no samay said then why are you destroying thier home? Everyone laughed",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant came who did dance and was solely for the purpose of flirting with samay and proposed him but the whole time samay was denying her that he's not in to her and like she was saying what is the thing I don't have that other girls have and Smay Replied Looks Matter and everybody laughed and then she said I've had 258 break ups till niw Samay Replied 259 th has also been done samay was fed up and he just to avoid her said I'm Gay and my pronouns are not yours everybody laughed soo hard",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Miscellaneous",
+                    "content": "But the girl took revenge in end and she won the show and then asked Samay yeah now tell me are you ashamed samay still said I don't want you"
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant came he was blind(Kushal bhanushali)and he first said I have visual disabilities and i can't see people's progress in life and then said my friends tease me even if i have 100 rupees in my pocket they say\" andha pesa h\" andha means blind and this sentence refers as someone who has huge amounts of money everyone laughed at this and then he says society treats me in a very wrong way \" bhikari mere oas ata h ghoor k bghair paisay maang k chla jata h k bc ye to asal ma andha h\" meaning beggar comes to him stare at him and goes away without asking for money thinking he's tye real blind one... Everyone laughed at the joke",
+                    "metadata": {
+                        "speaker": "Kushal Bhanushali"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Like this contestant was very good he said in my colony kids don't have much screen time upon asking why he said the kids having more screen time their parents take them to the contestant and tell them leave your phone otherwise your eyes will also be like this everyone laughed at this then he said my weakness is I can't masturbate in bed asking why he said he don't have idea of blast radius then...",
+                    "metadata": {
+                        "speaker": "Kushal Bhanushali"
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "This contestant was the Best of the lot INSANE ENERGY INSANE PERFORMANCE INSANE HUMOUR BEST PERFORMANCE and in the end He also won the Show his prediction score and avg score of judges equal to 9 and he won the show he was the best person gound on the show BY FAR A REMARKABLE PERFORMANCE"
+                }
+            ]
+        },
+        {
+            "episode": "Episode 12",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "Rakhi Sawant",
+                            "Aashish Solanki",
+                            "Yashraj",
+                            "Maheep Singh",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Rohan Pangtey",
+                        "Performance": "Singing",
+                        "Scores": {
+                            "Samay": "7",
+                            "Rakhi Sawant": "8",
+                            "Aashish Solanki": "7",
+                            "Yashraj": "9.5",
+                            "Maheep Singh": "8",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "",
+                        "Performance": "",
+                        "Scores": {
+                            "Samay": "8",
+                            "Rakhi Sawant": "7.5",
+                            "Aashish Solanki": "8",
+                            "Yashraj": "5",
+                            "Maheep Singh": "8",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "6.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Monal Kohli",
+                        "Performance": "Percussion",
+                        "Scores": {
+                            "Samay": "7.5",
+                            "Rakhi Sawant": "5",
+                            "Aashish Solanki": "8",
+                            "Yashraj": "6",
+                            "Maheep Singh": "6",
+                            "Balraj": "7.5"
+                        },
+                        "AvgScore": "6.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Fitoor",
+                        "Performance": "Animal Mimicry",
+                        "Scores": {
+                            "Samay": "5",
+                            "Rakhi Sawant": "3",
+                            "Aashish Solanki": "4",
+                            "Yashraj": "4",
+                            "Maheep Singh": "6",
+                            "Balraj": "6"
+                        },
+                        "AvgScore": "4.5",
+                        "Prediction": "7.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Yuvraj Gupta",
+                        "Performance": "Mimicry",
+                        "Scores": {
+                            "Samay": "9",
+                            "Rakhi Sawant": "10",
+                            "Aashish Solanki": "8.5",
+                            "Yashraj": "9",
+                            "Maheep Singh": "8.5",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "9",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Khushi Saini",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "9.5",
+                            "Rakhi Sawant": "10",
+                            "Aashish Solanki": "9",
+                            "Yashraj": "9.5",
+                            "Maheep Singh": "9",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "9.5",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "At the start of the show, when Samay was introducing judges and Rakhi Sawant came at the end, she said, 'Sorry guys, I got late because Maheep Singh ran away with my undergarments.' Everyone in the crowd went buzzing, with an electrifying atmosphere full of laughter. Maheep Singh replied, 'Wapas bhi toh kar diye thay dhooke' (meaning 'I returned them after washing them'). Everyone went crazy laughing at this moment.",
+                    "metadata": {
+                        "speaker": "Rakhi Sawant, Maheep Singh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Samay introduced Yashraj and said he is like Rakhi Sawant's lips because he’s just a filler. The crowd laughed a lot at this comparison.",
+                    "metadata": {
+                        "speaker": "Samay"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Samay asked Rakhi Sawant about Mika Singh (referring to the infamous birthday party kiss). She replied, 'It's been 15 years, why are you still thinking about him?' and then added, 'Oh yeah, you didn't get to play with the lips like me, that's why you're saying this.' Everyone shouted for Rakhi to kiss Samay. Amidst the chaos, Rakhi kissed Samay, and the crowd went crazy.",
+                    "metadata": {
+                        "speaker": "Rakhi Sawant, Samay"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Rakhi pointed at Maheep Singh and asked, 'Who’s this old man?' Samay replied, 'You must have forgotten—it’s been 15 years... he’s Mika Singh.' Everyone laughed as Rakhi retorted, 'Mika Singh was so hot, but this one is cold as ice.'",
+                    "metadata": {
+                        "speaker": "Rakhi Sawant, Samay"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Rakhi Sawant started eating something. Samay asked, 'What are you eating?' She replied, 'Viagra for controlling Maheep Singh.' Someone shouted, 'Viagra toh lund ke liye hota hai?' Rakhi replied, 'Yeh lund hi toh hai' (Viagra is for a dick? She replied, 'Yes, he’s a dick'). This moment went viral across the internet.",
+                    "metadata": {
+                        "speaker": "Rakhi Sawant, Samay, Audience"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant mentioned he lives in the mountains. Samay asked if he ever feels cold. Rakhi said, 'Why would he feel cold? I am here!' Maheep Singh replied, 'No, no, he must feel cold.' Rakhi replied, 'At this age, he would feel it like that,' adding in Hindi, 'Inki teenon taangen is waqt qabar mein hain' (His three legs are in the grave right now). She then said, 'But I can pull all three legs out of the grave,' leaving everyone laughing hysterically.",
+                    "metadata": {
+                        "speaker": "Rakhi Sawant, Samay, Maheep Singh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Samay asked Rakhi Sawant which type of men she likes. Maheep Singh interjected, 'Don’t take my name.' Rakhi replied, 'Gaarh ke aao yaar isse' (Go and bury him). Everyone laughed hysterically at this comment.",
+                    "metadata": {
+                        "speaker": "Rakhi Sawant, Maheep Singh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant performing mimicry imitated a dog's voice. Rakhi commented, 'Samay is also like this.' Samay replied, 'Koi ni Rakhi ji, aapko baad mein dikhata hoon Doggy style' (No worries, Rakhi, I’ll show you Doggy style later). Everyone laughed so hard at this moment.",
+                    "metadata": {
+                        "speaker": "Rakhi Sawant, Samay"
+                    }
+                },
+                {
+                    "type": "Miscellaneous",
+                    "content": "There was consistent banter throughout the episode between Rakhi Sawant and Maheep Singh, where they toasted each other. Maheep often flirted with Rakhi, leading to hilarious exchanges and audience laughter.",
+                    "metadata": {
+                        "keyMoments": [
+                            "Maheep Singh and Rakhi flirting",
+                            "Rakhi Sawant's witty retorts",
+                            "Audience reactions"
+                        ]
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "The last contestant, Khushi Saini, performed a rap that was incredibly talented and admired by everyone. Her performance went viral on the internet, receiving significant engagement. She won the episode and was considered the best performer of the show.",
+                    "metadata": {
+                        "performer": "Khushi Saini",
+                        "performanceType": "Rap",
+                        "outcome": "Winner"
+                    }
+                }
+            ]
+        },
+        {
+            "episode": "Bonus Episode 1",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "ArpitBala",
+                            "Bappa",
+                            "SahilKale",
+                            "Amin"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Parikshit Gandhi",
+                        "Performance": "Theatre Actor",
+                        "Scores": {
+                            "Samay": "10",
+                            "ArpitBala": "9",
+                            "Bappa": "6",
+                            "SahilKale": "8",
+                            "Amin": "8"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "7.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Keshav Jha",
+                        "Performance": "Poet",
+                        "Scores": {
+                            "Samay": "9.5",
+                            "ArpitBala": "7",
+                            "Bappa": "7",
+                            "SahilKale": "4",
+                            "Amin": "10"
+                        },
+                        "AvgScore": "7",
+                        "Prediction": "8",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Ramkrishna Nalla",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "9",
+                            "ArpitBala": "8",
+                            "Bappa": "4",
+                            "SahilKale": "3.5",
+                            "Amin": "3"
+                        },
+                        "AvgScore": "4.5",
+                        "Prediction": "7.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Annul Pale/Arvind",
+                        "Performance": "BMX/Beatboxer",
+                        "Scores": {
+                            "Samay": "10",
+                            "ArpitBala": "10",
+                            "Bappa": "7",
+                            "SahilKale": "8.5",
+                            "Amin": "9"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "9.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Aejaz Khan",
+                        "Performance": "Urdu Rap",
+                        "Scores": {
+                            "Samay": "9",
+                            "ArpitBala": "10",
+                            "Bappa": "8.5",
+                            "SahilKale": "7.5",
+                            "Amin": "7"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "7",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "First contestant performed acting and he was as a beggar and like his act was around that people really made gun of him and after his performance what kind of audience is this third class not up to the mark etc they should cheer more and then Samay replies \" Beggars Can't be choosers\" everyone laughed",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "MOST VIRAL PERFORMANCE OF THE SHOW ....KESHAV JHA\nLike before even he could perform there was soo much chaos on stage as whenever samay would say the Line make some noise for Keshav jha someone would interrupt him and he sees towards the judges again and the next time the judges and audience says with more pressure \"MAKE SOME NOISE FOR KESHAV JHA\" this scene happened 4-5 times and then when he finally starts his performance by first saying \"Kavita Is parakaar h k\" meaning the Poetry is such that.... Like people wasn't expecting poetry from him and everyone laughed soo much and like he was again in a like battle with some contestant in poetry and on some stage he said in hindi\"AE MURKH APNI CHHAVI SUDHAAR\" Meaning you should behave yourself and this scene went soo soo viral and was like the famous line of the show\nKESHAV JHA was the most viral person on the internet probably the best Contestant of the show TRULY REMARKABLE PERFORMANCE by him the best poetry performance by him and he was the Best find of the show"
+                }
+            ]
+        },
+        {
+            "episode": "Bonus Episode 2",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                           "Samay",
+                            "Badshah",
+                            "Siddhant",
+                            "GursimranKhamba",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Chetan Tabme",
+                        "Performance": "Jump Rope",
+                        "Scores": {
+                            "Samay": "10",
+                            "Badshah": "10",
+                            "Siddhant": "10",
+                            "GursimranKhamba": "10",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "10",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Ganesh Sunar",
+                        "Performance": "Nepali Rapper",
+                        "Scores": {
+                            "Samay": "9",
+                            "Badshah": "9",
+                            "Siddhant": "9",
+                            "GursimranKhamba": "8.5",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "9.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Suraj Pal",
+                        "Performance": "Standup Comedy",
+                        "Scores": {
+                            "Samay": "8.5",
+                            "Badshah": "8",
+                            "Siddhant": "7.5",
+                            "GursimranKhamba": "7",
+                            "Balraj": "9.5"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Sohail Inamdar",
+                        "Performance": "Rapper",
+                        "Scores": {
+                            "Samay": "8",
+                            "Badshah": "9",
+                            "Siddhant": "9",
+                            "GursimranKhamba": "7",
+                            "Balraj": "5.5"
+                        },
+                        "AvgScore": "7.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Kanika Choudhary",
+                        "Performance": "Poet",
+                        "Scores": {
+                            "Samay": "9",
+                            "Badshah": "8",
+                            "Siddhant": "10",
+                            "GursimranKhamba": "8.5",
+                            "Balraj": "7.5"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "8",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Ekant Sawant",
+                        "Performance": "magician",
+                        "Scores": {
+                            "Samay": "8",
+                            "Badshah": "7",
+                            "Siddhant": "8",
+                            "GursimranKhamba": "9",
+                            "Balraj": "9"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "8",
+                        "Result": "Won"
+                    }
+                }
+            ]
+        },
+        {
+            "episode": "Bonus Episode 3",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "AvikaGor",
+                            "DeveshDixit",
+                            "ShashantMaheshwari",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Gargee Mulikpatel",
+                        "Performance": "Nunchaks",
+                        "Scores": {
+                            "Samay": "10",
+                            "AvikaGor": "10",
+                            "DeveshDixit": "9",
+                            "ShashantMaheshwari": "9.5",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "9.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Suraj Gunjal",
+                        "Performance": "Breathless",
+                        "Scores": {
+                            "Samay": "8.5",
+                            "AvikaGor": "9",
+                            "DeveshDixit": "6",
+                            "ShashantMaheshwari": "9",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "8",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Ravi Premsing Rajput",
+                        "Performance": "Magician",
+                        "Scores": {
+                            "Samay": "8.5",
+                            "AvikaGor": "10",
+                            "DeveshDixit": "8",
+                            "ShashantMaheshwari": "8",
+                            "Balraj": "8.5"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A girl came and she was performing some sort of martial arts or defense techniques for woman that they should definitely know for their safety and was like educating girls if an attacker attacks the girl how can she save herself like she was talking too much about it and some judge jokingly said okay now tell us what should we do as an attacker and everyone laughed CRAZZY",
+                    "metadata": {
+                        "speaker": "Contestant, Judge"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant came who was singing breathless and like after his performance told about that his father has an opd age home and he gets donations for that and like he uses the money too.. everyone was shocked and after he told that hiw he treats the old people like they dance there and entertain etc and then he said he talks well with girls and samay said \"han bhai ladkiyon se hi saii baat krta higa tu buddhon ki to gaand maar deta hoga\"\nMeaning yeah i can see you must've got great conversation with girls only as you would have fucked the old ones",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "And before he was showing that he can also make a joker face and balraj asjed have u made this face at old age home and then he said \" wahan sb ka aisa hi h\" basically saying there everyone has joker face everybody was laughing soo much",
+                    "metadata": {
+                        "speaker": "Contestant, Balraj"
+                    }
+                }
+            ]
+        },
+        {
+            "episode": "Bonus Episode 4",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "Encore ABJ (Abhijay Negi)",
+                            "Siddhant Sharma (Calm)",
+                            "Madhur Virli",
+                            "Kaustubh Agarwal",
+                            "Balraj"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Mehar Raj Singh Jassal",
+                        "Performance": "Storytelling",
+                        "Scores": {
+                            "Samay": "7",
+                            "Encore ABJ (Abhijay Negi)": "7",
+                            "Siddhant Sharma (Calm)": "8",
+                            "Madhur Virli": "10",
+                            "Kaustubh Agarwal": "7",
+                            "Balraj": "6"
+                        },
+                        "AvgScore": "7.5",
+                        "Prediction": "7",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Nazish Madni",
+                        "Performance": "Acting",
+                        "Scores": {
+                            "Samay": "5",
+                            "Encore ABJ (Abhijay Negi)": "7.5",
+                            "Siddhant Sharma (Calm)": "7",
+                            "Madhur Virli": "10",
+                            "Kaustubh Agarwal": "7.5",
+                            "Balraj": "5"
+                        },
+                        "AvgScore": "7",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Chetna Balhara",
+                        "Performance": "Haryanvi Poetry",
+                        "Scores": {
+                            "Samay": "8",
+                            "Encore ABJ (Abhijay Negi)": "8",
+                            "Siddhant Sharma (Calm)": "9",
+                            "Madhur Virli": "10",
+                            "Kaustubh Agarwal": "10",
+                            "Balraj": "10"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Srishti Agarwal",
+                        "Performance": "Stand up Comedy",
+                        "Scores": {
+                            "Samay": "5",
+                            "Encore ABJ (Abhijay Negi)": "7",
+                            "Siddhant Sharma (Calm)": "7",
+                            "Madhur Virli": "10",
+                            "Kaustubh Agarwal": "2.5",
+                            "Balraj": "2"
+                        },
+                        "AvgScore": "5.5",
+                        "Prediction": "8",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Kartikey Goel",
+                        "Performance": "Singer",
+                        "Scores": {
+                            "Samay": "6",
+                            "Encore ABJ (Abhijay Negi)": "7.5",
+                            "Siddhant Sharma (Calm)": "7",
+                            "Madhur Virli": "4",
+                            "Kaustubh Agarwal": "6",
+                            "Balraj": "0"
+                        },
+                        "AvgScore": "5",
+                        "Prediction": "8",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Rahul Mishra",
+                        "Performance": "Ventriloquist",
+                        "Scores": {
+                            "Samay": "7",
+                            "Encore ABJ (Abhijay Negi)": "9",
+                            "Siddhant Sharma (Calm)": "9",
+                            "Madhur Virli": "10",
+                            "Kaustubh Agarwal": "9",
+                            "Balraj": "7"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "8.5",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Kartikey/Deep",
+                        "Performance": "Stand up Comedy",
+                        "Scores": {
+                            "Samay": "8",
+                            "Encore ABJ (Abhijay Negi)": "8",
+                            "Siddhant Sharma (Calm)": "8",
+                            "Madhur Virli": "10",
+                            "Kaustubh Agarwal": "9",
+                            "Balraj": "8"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "8.5",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant came he was also from Kashmir and performed his script but really wasn't up to the mark and and like after they were talking with him he was such a sweet guy .. so samay was also from Kashmir and he wanted to hug him for being such cute one when he goes to samay the wire of the mic interrupted the hug and samay said\"yhi behnchod hamare beech ma yhi taare aati rehti hain\" samay was referring to The War situation in Kashmir and like that's why everyone laughed at the wire joke",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant came she was doing Haryanvi Poetry and like he said some lines to flirt with Samay and in one line she said something like Merii jaan ne meaning my love so everyone was soo laughing and cheering the contestant for the best haryanvi poetry with flirting skills on samay and he stands up and hugs the girl and says aj se to mari Behen ae meaning you are my sister from Today like everyone laughed soo much that samay Replied the flirting with this and said you are like my sister the whole crowd was buzzing",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Another contestant came and she was just performing something even she didn't know what was she performing and like she was soo cringy and she said I can't handle criticism or jokes i would literally cry samay said\"That would be great Content\" everyone laughed at the moment",
+                    "metadata": {
+                        "speaker": "Contestant, Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Madhur who was judge on the panel said when you work so hard you get a very cult fanbase Munawar also has one and i have also got my cult fanbase now after working so hard etc etc so like everyone was thinking he would give some motivation or advice or something and then he says i recently did a show in Noida and after the show the owner of the venue sent him a voice note saying\" Madhur bhai rk chota sa scene ho gya h kal ap k show ma jo audience ayi thi usne hamaray venue se Marshall ke speakers chura liye\" after this Everyone was laughing soo much the whole crowd was BUZZING the judges were laughing soo much at this",
+                    "metadata": {
+                        "speaker": "Madhur"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Her performance was soo bad that someone asked him have you performed elsewhere before today and Samay said YEAH Cancer Patients \"unho ne kaha chlo maut itni bi buri to \"",
+                    "metadata": {
+                        "speaker": "Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "This joke means that her performance was so bad that samay said even if she would perform in front of Cancer patients they would thank the God that they are happy dying rather than listening to this shit\nEveryone was laughing",
+                    "metadata": {
+                        "speaker": "Samay Raina"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "And then samay said you've written here you have very thick skin then she says no thin skin then samay said oh sorry i was reading kaustabh's form then ... Kaustabh is also a judge on the panel and everyone was laughing soo much after this",
+                    "metadata": {
+                        "speaker": "Samay Raina, Kaustabh"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Then samay personally asked the contestant if she minds these jokes she says no then samay says \"sharam aani chahie apko\" then girl says\" sharam to apko aani chahie mujhe jo select kia h\" meaning samay said you should be ashamed of yourself then and she replied you should be ashamed of selecting me.... Everyone laughed at this",
+                    "metadata": {
+                        "speaker": "Samay Raina, Contestant"
+                    }
+                },
+                {
+                    "type": "Miscellaneous",
+                    "content": "So there were two winners on this episode and first one\nOne was a ventriloquist and he literally killed by his performance and like he was soo much good at it literally this was spure talent\nEveryone laughed at the jokes he did and like was really good\nSecond there were two guys acting and like they also won they did parody like the link of latent form is now available and they were filling the form and did jokes around judges etc like if we bith kiss samay will definitely give us 10 and then samay also said Definitely everyone laughed"
+                }
+            ]
+        },
+        {
+            "episode": "Bonus Episode 5",
+            "content": [
+                {
+                    "type": "Judge",
+                    "content": {
+                        "Judges": [
+                            "Samay",
+                            "Rohan Joshi",
+                            "Vaibhav Munjal",
+                            "Sahil Shah",
+                            "Chandni Ghai"
+                        ]
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Smith Patel",
+                        "Performance": "Stand-up comedy",
+                        "Scores": {
+                            "Samay": "8",
+                            "Rohan Joshi": "6.5",
+                            "Vaibhav Munjal": "8",
+                            "Sahil Shah": "7",
+                            "Chandni Ghai": "7.5"
+                        },
+                        "AvgScore": "7.5",
+                        "Prediction": "6",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Jayram Mohan",
+                        "Performance": "Classical Colucol",
+                        "Scores": {
+                            "Samay": "4",
+                            "Rohan Joshi": "5.5",
+                            "Vaibhav Munjal": "8.5",
+                            "Sahil Shah": "10",
+                            "Chandni Ghai": "8"
+                        },
+                        "AvgScore": "7",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Tejal Rakesh Sahu",
+                        "Performance": "Singer",
+                        "Scores": {
+                            "Samay": "8",
+                            "Rohan Joshi": "8",
+                            "Vaibhav Munjal": "8",
+                            "Sahil Shah": "7",
+                            "Chandni Ghai": "8.5"
+                        },
+                        "AvgScore": "8",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Sahil Salim Sheikh",
+                        "Performance": "Magician",
+                        "Scores": {
+                            "Samay": "10",
+                            "Rohan Joshi": "10",
+                            "Vaibhav Munjal": "10",
+                            "Sahil Shah": "9.5",
+                            "Chandni Ghai": "10"
+                        },
+                        "AvgScore": "10",
+                        "Prediction": "9.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Alban Choonawala",
+                        "Performance": "Urdu Poetry",
+                        "Scores": {
+                            "Samay": "6",
+                            "Rohan Joshi": "5.5",
+                            "Vaibhav Munjal": "8",
+                            "Sahil Shah": "5",
+                            "Chandni Ghai": "8"
+                        },
+                        "AvgScore": "6.5",
+                        "Prediction": "8.5",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Playlist",
+                        "Performance": "Musical band",
+                        "Scores": {
+                            "Samay": "8.5",
+                            "Rohan Joshi": "8.5",
+                            "Vaibhav Munjal": "8",
+                            "Sahil Shah": "9",
+                            "Chandni Ghai": "9"
+                        },
+                        "AvgScore": "8.5",
+                        "Prediction": "9",
+                        "Result": "Lost"
+                    }
+                },
+                {
+                    "type": "Contestant",
+                    "content": {
+                        "Contestant": "Poshak Dua",
+                        "Performance": "Magician",
+                        "Scores": {
+                            "Samay": "9",
+                            "Rohan Joshi": "9.5",
+                            "Vaibhav Munjal": "8",
+                            "Sahil Shah": "10",
+                            "Chandni Ghai": "9"
+                        },
+                        "AvgScore": "9",
+                        "Prediction": "9",
+                        "Result": "Won"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Samay introduced the judges and mentioned Rohan Joshi and Sahil Shah, calling them from 'two broken collectives.' Rohan Joshi replied, 'Shut the fuck up, you man from broken state.' Everyone laughed, understanding the context related to Samay being from Kashmir and the ongoing war situation.",
+                    "metadata": {
+                        "speaker": "Samay, Rohan Joshi"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Samay asked the Colucol artist if he had a job, to which the contestant confirmed. Samay humorously said, 'Good, never leave that job,' and the audience laughed.",
+                    "metadata": {
+                        "speaker": "Samay"
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "A magician performed a card trick where Samay was asked to pick a card. After a series of tricks, it was revealed that the card Samay picked wasn't the same as the one shown on the T-shirt. The magician then humorously explained it was Samay who messed up, but eventually revealed the trick worked and left everyone amazed.",
+                    "metadata": {
+                        "speaker": "Magician"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A contestant performing Urdu Poetry was nervous, and when Samay asked about it, he responded that he had smoked a bit. Samay jokingly misunderstood him, thinking he said 'weed' instead of 'BA,' causing everyone to laugh.",
+                    "metadata": {
+                        "speaker": "Samay, Contestant"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "When the Urdu Poetry contestant was asked about the meaning of his poetry, he replied with a dim voice, 'Fuck her bro.' Samay responded, 'Shot nahi, short ma samjha,' causing an uproar of laughter.",
+                    "metadata": {
+                        "speaker": "Samay, Contestant"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "When the contestant's form revealed his goal in life was to earn enough money to produce a show like 'INDIA'S GOT LATENT' and get better judges, Samay joked, 'That's my goal too, bhai!' Everyone laughed hysterically, and it went viral.",
+                    "metadata": {
+                        "speaker": "Samay, Contestant"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "The contestant's superpower choice was 'Reading people's minds' because he overthinks. Samay pointed at Amin Khan (the bodyguard) and asked, 'Tell me what Andrew Tate is thinking?' The contestant joked, 'He just wants me to get off the stage now.' The bodyguard confirmed, 'Yeah,' which left everyone in splits.",
+                    "metadata": {
+                        "speaker": "Samay, Contestant, Amin Khan"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "A musical band took a long time setting up their mics and Samay joked, 'Tomorrow there will be two AirPods born from this mic.' This was in reference to a previous joke by Alban Choonawala, and it had the audience laughing.",
+                    "metadata": {
+                        "speaker": "Samay"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Samay joked with the band member who wrote 'We move on quickly...' in his form after taking so long to start. The band member replied, 'Okay, next question,' and the audience burst into laughter.",
+                    "metadata": {
+                        "speaker": "Samay, Band Member"
+                    }
+                },
+                {
+                    "type": "Joke",
+                    "content": "Poshak Dua, the magician, called Sahil Shah on stage to block his ears, and Samay joked, 'Like the audience in your shows, Sahil Bhai,' causing the audience to laugh.",
+                    "metadata": {
+                        "speaker": "Samay, Poshak Dua"
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "Poshak Dua performed a magic trick, inserting a nail in his nose, and humorously warned the audience not to try it at home. Sahil Shah replied, 'No adult watches Samay's channel,' which was a savage comeback.",
+                    "metadata": {
+                        "speaker": "Poshak Dua, Sahil Shah"
+                    }
+                },
+                {
+                    "type": "Performance",
+                    "content": "Poshak Dua predicted his score before performing and correctly guessed a 9. When the result matched, everyone in the audience went wild, acknowledging his magic skills.",
+                    "metadata": {
+                        "performer": "Poshak Dua",
+                        "performanceType": "Magic",
+                        "outcome": "Won"
+                    }
+                }
+            ]
+        }
+    ],
+    "faq_answers": [
+  {
+    "question": "What is India's Got Latent?",
+    "answer": "India's Got Latent is a digital parody of talent shows, featuring comedians and creators performing or showcasing random, sometimes absurd talents. It's more about humor and vibe than actual talent."
+  },
+  {
+    "question": "Who created the show?",
+    "answer": "The show was created by stand-up comedian Samay Raina, known for his live streams and comedic content. He also hosted every episode along with recurring appearances by Vaibhav Sethia and Balraj."
+  },
+  {
+    "question": "How many episodes were there?",
+    "answer": "There were 12 full episodes and 6 bonus episodes, streamed between June 2024 and February 2025."
+  },
+  {
+    "question": "Why was the show taken down?",
+    "answer": "The show was taken down after a controversy involving podcaster Ranveer Allahbadia. His inappropriate joke towards a contestant received massive backlash and triggered legal and political escalation."
+  },
+  {
+    "question": "Where can I watch the episodes now?",
+    "answer": "As of now, all episodes have been set to private on YouTube. There is no legal or official source to view them."
+  },
+  {
+    "question": "What was the show's format?",
+    "answer": "Contestants predicted their scores before performing. If the judges’ average score matched the prediction, the contestant won. This twist made things funnier and less about talent, more about chaotic fun."
+  },
+  {
+    "question": "Who were the judges?",
+    "answer": "The judges changed every episode. They included big names like Raftaar, Badshah, Kusha Kapila, Anubhav Singh Bassi, Aishwarya Mohanraj, Atul Khatri, and others."
+  },
+  {
+    "question": "Will the show return?",
+    "answer": "There’s no official announcement. The creators have remained silent since the controversy. Speculations suggest it may return in a rebranded format or on a different platform."
+  },
+  {
+    "question": "Was the show scripted or real?",
+    "answer": "The show was semi-scripted. Some segments were planned, especially with recurring jokes and characters, but most interactions were spontaneous and relied on judge chemistry and contestant unpredictability."
+  }
+]
+      
+}
+    
