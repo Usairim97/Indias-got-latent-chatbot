@@ -11,7 +11,7 @@ This chatbot answers deep, episode-level questions about the show, contestants, 
 
 ## 🚀 Live Demo
 
-▶️ **Chat with the AI here**:  
+▶️ **Chat with the AI here**:(https://indiasgotlatentchatbot.netlify.app)  
 🔗 [https://dndak--do.hf.space](https://dndak--do.hf.space) (Hosted via Hugging Face Spaces)
 
 ---
